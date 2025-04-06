@@ -13,33 +13,58 @@
       background-color: #f8f9fa;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
+    .container {
+      max-width: 800px;
+      padding: 0 15px;
+    }
     .header {
       background: linear-gradient(135deg, #6e8efb, #a777e3);
       color: white;
-      padding: 15px;
-      margin-bottom: 20px;
+      padding: 8px;
+      margin-bottom: 10px;
       border-radius: 0 0 10px 10px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .header h1 {
+      font-size: 1.5rem;
+      margin-bottom: 0;
+    }
+    .header p {
+      font-size: 0.8rem;
+      margin-bottom: 0;
+    }
+    .app-layout {
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 15px;
+      align-items: start;
+    }
+    .main-content {
+      width: 100%;
+    }
+    .sidebar {
+      position: sticky;
+      top: 10px;
     }
     .card {
-      margin: 20px auto;
-      max-width: 600px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      transition: transform 0.3s ease;
+      margin-bottom: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
-    .card:hover {
-      transform: translateY(-5px);
+    .card-body {
+      padding: 12px;
     }
     .post-image img {
       width: 100%;
+      max-height: 200px;
+      object-fit: cover;
       border-radius: 5px;
     }
     #responseContainer {
-      max-width: 600px;
-      margin: 20px auto;
-      border-radius: 10px;
+      border-radius: 8px;
       transition: all 0.3s ease;
+      margin-bottom: 10px;
+      padding: 10px;
     }
     .correct {
       background-color: #d4edda;
@@ -63,17 +88,16 @@
     }
     /* True/False button container */
     #buttonContainer {
-      max-width: 600px;
-      margin: 10px auto;
       display: flex;
       justify-content: center;
-      gap: 20px;
+      gap: 10px;
+      margin-bottom: 10px;
     }
     .btn-true, .btn-false {
-      padding: 10px 30px;
+      padding: 6px 15px;
       font-weight: bold;
-      border-radius: 50px;
-      transition: all 0.3s ease;
+      border-radius: 20px;
+      transition: all 0.2s ease;
     }
     .btn-true {
       background-color: #28a745;
@@ -81,7 +105,6 @@
     }
     .btn-true:hover {
       background-color: #218838;
-      transform: scale(1.05);
     }
     .btn-false {
       background-color: #dc3545;
@@ -89,36 +112,36 @@
     }
     .btn-false:hover {
       background-color: #c82333;
-      transform: scale(1.05);
     }
     .btn-next {
       background: linear-gradient(135deg, #6e8efb, #a777e3);
       color: white;
       border: none;
-      padding: 10px 30px;
-      border-radius: 50px;
+      padding: 5px 15px;
+      border-radius: 20px;
       font-weight: bold;
       transition: all 0.3s ease;
-    }
-    .btn-next:hover {
-      transform: scale(1.05);
-      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      font-size: 0.9rem;
     }
     .profile-pic {
-      width: 40px;
-      height: 40px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
       object-fit: cover;
     }
     .topic-selector {
-      max-width: 600px;
-      margin: 0 auto 20px;
-      text-align: center;
+      margin-bottom: 10px;
+    }
+    .topic-labels {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 5px;
     }
     .topic-btn {
-      margin: 5px;
-      border-radius: 20px;
-      font-size: 0.9rem;
+      padding: 3px 10px;
+      border-radius: 15px;
+      font-size: 0.75rem;
       background-color: #f1f1f1;
       border: 1px solid #ddd;
       transition: all 0.2s ease;
@@ -128,20 +151,26 @@
       border-color: #dae0e5;
     }
     .stats-container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 10px;
       background-color: white;
-      border-radius: 10px;
+      border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      display: flex;
-      justify-content: space-around;
+      padding: 8px;
+      margin-bottom: 10px;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5px;
     }
     .stat-item {
       text-align: center;
     }
+    .stat-label {
+      font-size: 0.7rem;
+      color: #6c757d;
+    }
     .stat-value {
-      font-size: 1.5rem;
+      font-size: 1.1rem;
       font-weight: bold;
       color: #6e8efb;
     }
@@ -155,12 +184,12 @@
     }
     .loading {
       text-align: center;
-      padding: 20px;
+      padding: 10px;
     }
     .loading-spinner {
-      border: 4px solid rgba(0, 0, 0, 0.1);
-      width: 36px;
-      height: 36px;
+      border: 3px solid rgba(0, 0, 0, 0.1);
+      width: 24px;
+      height: 24px;
       border-radius: 50%;
       border-left-color: #6e8efb;
       animation: spin 1s linear infinite;
@@ -169,6 +198,30 @@
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
+    }
+    .post-content p {
+      margin-bottom: 0.5rem;
+    }
+    .feedback-text {
+      font-size: 0.9rem;
+    }
+    .feedback-header {
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+    .topic-stats {
+      font-size: 0.75rem;
+      padding: 5px;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .app-layout {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        position: static;
+      }
     }
   </style>
 </head>
@@ -179,51 +232,67 @@
       <p class="mb-0">Test your ability to spot real facts from fiction</p>
     </div>
 
-    <!-- Stats Bar -->
-    <div class="stats-container mb-3">
-      <div class="stat-item">
-        <div class="stat-label">Score</div>
-        <div class="stat-value" id="scoreValue">0</div>
+    <div class="app-layout">
+      <!-- Main Content Area -->
+      <div class="main-content">
+        <!-- Loading Indicator -->
+        <div id="loadingIndicator" class="loading d-none">
+          <div class="loading-spinner"></div>
+          <small>Loading...</small>
+        </div>
+        
+        <!-- Post Card -->
+        <div id="postContainer" class="card">
+          <div class="card-body" id="postContent">
+            <!-- Post content will be injected here -->
+          </div>
+        </div>
+        
+        <!-- True/False Buttons Container -->
+        <div id="buttonContainer">
+          <button class="btn btn-true" id="trueBtn"><i class="fas fa-check-circle"></i> True</button>
+          <button class="btn btn-false" id="falseBtn"><i class="fas fa-times-circle"></i> False</button>
+        </div>
+        
+        <!-- Response Alert (for explanation and Next button) -->
+        <div id="responseContainer" class="alert d-none"></div>
       </div>
-      <div class="stat-item">
-        <div class="stat-label">Streak</div>
-        <div class="stat-value" id="streakValue">0</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-label">Accuracy</div>
-        <div class="stat-value" id="accuracyValue">0%</div>
+      
+      <!-- Sidebar -->
+      <div class="sidebar">
+        <!-- Stats Container -->
+        <div class="stats-container">
+          <h6 class="text-center mb-2">Your Stats</h6>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-label">Score</div>
+              <div class="stat-value" id="scoreValue">0</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-label">Streak</div>
+              <div class="stat-value" id="streakValue">0</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-label">Accuracy</div>
+              <div class="stat-value" id="accuracyValue">0%</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Topic Selector -->
+        <div class="topic-selector card">
+          <div class="card-body">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <small><b>Topics</b></small>
+              <button id="randomTopic" class="btn btn-sm btn-secondary">Random</button>
+            </div>
+            <div id="topicButtons" class="topic-labels">
+              <!-- Topic buttons will be populated here -->
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    
-    <!-- Topic Selector -->
-    <div class="topic-selector">
-      <div class="mb-2">Choose a topic or <button id="randomTopic" class="btn btn-sm btn-secondary">Random</button></div>
-      <div id="topicButtons">
-        <!-- Topic buttons will be populated here -->
-      </div>
-    </div>
-    
-    <!-- Loading Indicator -->
-    <div id="loadingIndicator" class="loading d-none">
-      <div class="loading-spinner"></div>
-      <p class="mt-2">Loading...</p>
-    </div>
-    
-    <!-- Post Card -->
-    <div id="postContainer" class="card">
-      <div class="card-body" id="postContent">
-        <!-- Post content will be injected here -->
-      </div>
-    </div>
-    
-    <!-- True/False Buttons Container -->
-    <div id="buttonContainer">
-      <button class="btn btn-true" id="trueBtn"><i class="fas fa-check-circle"></i> True</button>
-      <button class="btn btn-false" id="falseBtn"><i class="fas fa-times-circle"></i> False</button>
-    </div>
-    
-    <!-- Response Alert (for explanation and Next button) -->
-    <div id="responseContainer" class="alert d-none"></div>
   </div>
 
   <!-- jQuery -->
@@ -531,15 +600,15 @@
         // Show correct/incorrect feedback with animation
         if (isCorrect) {
           $(this).addClass('animate__animated animate__pulse');
-          var feedbackText = `<div class="mb-3">
-                                <h4><i class="fas fa-check-circle"></i> Correct!</h4>
-                                <p>${currentFact.explanation}</p>
+          var feedbackText = `<div>
+                                <h5 class="feedback-header"><i class="fas fa-check-circle"></i> Correct!</h5>
+                                <p class="feedback-text">${currentFact.explanation}</p>
                               </div>`;
         } else {
           $(this).addClass('animate__animated animate__shake');
-          var feedbackText = `<div class="mb-3">
-                                <h4><i class="fas fa-times-circle"></i> Incorrect</h4>
-                                <p>${currentFact.explanation}</p>
+          var feedbackText = `<div>
+                                <h5 class="feedback-header"><i class="fas fa-times-circle"></i> Incorrect</h5>
+                                <p class="feedback-text">${currentFact.explanation}</p>
                               </div>`;
         }
         
@@ -548,25 +617,26 @@
         const topicTotal = topicCorrect + stats.topicStats[currentTopic].incorrect;
         const topicAccuracy = topicTotal > 0 ? Math.round((topicCorrect / topicTotal) * 100) : 0;
         
-        feedbackText += `<div class="mt-3 p-2 bg-light rounded">
-                           <small class="text-muted">Your stats for ${currentTopic.charAt(0).toUpperCase() + currentTopic.slice(1)}: 
-                             ${topicCorrect}/${topicTotal} correct (${topicAccuracy}% accuracy)
-                           </small>
-                         </div>`;
+        // Add "Learn More" link if available and Next button
+        feedbackText += `<div class="d-flex justify-content-between align-items-center mt-2">`;
         
-        // Add "Learn More" link if available
         if (currentFact.source) {
-          feedbackText += `<div class="mt-3">
-                             <a href="${currentFact.source}" target="_blank" class="btn btn-sm btn-info">
-                               <i class="fas fa-external-link-alt"></i> Learn More
-                             </a>
-                           </div>`;
+          feedbackText += `<a href="${currentFact.source}" target="_blank" class="btn btn-sm btn-info">
+                             <i class="fas fa-external-link-alt"></i> Learn More
+                           </a>`;
+        } else {
+          feedbackText += `<span></span>`;
         }
         
-        feedbackText += `<div class="text-center mt-3">
-                           <button class="btn btn-next" id="nextBtn">
-                             <i class="fas fa-arrow-right"></i> Next
-                           </button>
+        feedbackText += `<button class="btn btn-next" id="nextBtn">
+                           <i class="fas fa-arrow-right"></i> Next
+                         </button>
+                       </div>`;
+                       
+        // Add a very small topic stats at the bottom
+        feedbackText += `<div class="topic-stats text-muted mt-2">
+                           ${currentTopic.charAt(0).toUpperCase() + currentTopic.slice(1)} stats: 
+                           ${topicCorrect}/${topicTotal} (${topicAccuracy}%)
                          </div>`;
         
         $('#responseContainer').removeClass('d-none').html(feedbackText);
