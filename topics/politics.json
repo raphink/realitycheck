@@ -48,5 +48,305 @@
     "text": "Presidents don’t have to show their taxes. It’s just… tradition. And people are cool with that? 🧾👀",
     "answer": true,
     "explanation": "Yes. There’s no legal requirement for U.S. presidents to release their tax returns."
+  },
+  {
+    "text": "Still waiting for someone to explain why every U.S. president is secretly related through royal bloodlines.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but voting machines are all connected to the internet and controlled remotely.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but the government adds mind control chemicals to tap water.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that all major political parties are part of the same secret society.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but every law passed in Congress is pre-approved by corporations.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): the moon landing was staged to distract from a political scandal.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but presidents are chosen years in advance by the Bilderberg Group.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but no U.S. president has ever actually written their own speeches.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Still waiting for someone to explain why your vote doesn\u2019t count unless you register your DNA.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): politicians never pay taxes\u2014they're exempt from IRS audits.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: every televised debate is scripted like a reality show.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: all major elections are decided by an algorithm, not people.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the national debt is a myth created to control the public.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, all world leaders meet every year in Antarctica to set the global agenda.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that the president controls the weather through executive orders.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: voter fraud is responsible for every major election upset.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but political parties are actually marketing companies in disguise.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: foreign aid is just money laundering through diplomacy.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how every campaign ad is designed using military-grade psychological warfare.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that Congress holds secret night sessions to pass controversial bills.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the Pentagon has a department dedicated to meme warfare.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): politicians use deepfake technology to appear in two places at once.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that whenever approval ratings drop, governments manufacture crises.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, the IRS was created to fund secret space programs.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): lobbyists write 90% of the legislation in Washington.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but candidates use hypnotic language patterns to influence voters.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, national emergencies are declared to reset political power structures.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but political polling is rigged to shape\u2014not reflect\u2014public opinion.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): Supreme Court justices are sworn to secrecy by Freemasons.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: every major protest is orchestrated by intelligence agencies.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: political debates are pre-recorded and edited for public release.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but the U.N. secretly owns every country\u2019s constitution.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that governments use chemtrails to suppress political dissent.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that each political campaign is backed by the same top 10 donors.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: political fact-checkers are employed by the candidates they cover.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but election day is purposely on a weekday to reduce voter turnout.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but politicians can\u2019t be prosecuted while in office due to secret immunity laws.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: governors are briefed monthly by extraterrestrials in black vans.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but there are secret amendments to the Constitution that the public can't read.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but the FBI tracks political opinions via your smartphone microphone.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but campaign slogans are tested using brain scans.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how left-right politics was created to divide citizens and keep them from uniting.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that political dynasties are assigned roles from birth by elite councils.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how new laws are hidden inside massive bills no one reads.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but the national anthem was designed to manipulate emotional states.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, official political maps are redrawn to influence public opinion.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that campaign donations determine which laws get passed.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: some countries fake opposition parties to control all narratives.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: all government shutdowns are pre-planned to distract from bigger moves.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how world leaders wear earpieces during summits to receive instructions.",
+    "answer": false,
+    "explanation": "This statement is politically misleading or based on conspiracy theories, not facts.",
+    "url": "https://en.wikipedia.org/wiki/List_of_political_conspiracy_theories"
   }
 ]
