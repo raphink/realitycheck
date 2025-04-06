@@ -44,21 +44,6 @@
 <body>
   <div class="container">
     <h1 class="text-center my-4">RealityCheck</h1>
-    <div class="form-group">
-      <select class="form-control" id="topicSelect">
-        <option value="random" selected>Random</option>
-        <option value="history">History</option>
-        <option value="science">Science</option>
-        <option value="politics">Politics</option>
-        <option value="health">Health &amp; Wellness</option>
-        <option value="internet">Internet &amp; Tech</option>
-        <option value="space">Space &amp; Aliens</option>
-        <option value="environment">Environment &amp; Climate</option>
-        <option value="psychology">Psychology</option>
-        <option value="economics">Money &amp; Economics</option>
-        <option value="religion">Religion</option>
-      </select>
-    </div>
     <!-- Post Card -->
     <div id="postContainer" class="card">
       <div class="card-body" id="postContent">
@@ -80,18 +65,12 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
     var currentFact = null;
-    var currentTopic = $('#topicSelect').val();
-
     // List of available topics (corresponds to JSON file names)
     var availableTopics = ["history", "science", "politics", "health", "internet", "space", "environment", "conspiracies", "psychology", "economics", "religion"];
 
-    // Function to pick a topic if "random" is selected.
+    // Function to pick a random topic.
     function getSelectedTopic() {
-      var topic = $('#topicSelect').val();
-      if(topic === "random") {
-        topic = availableTopics[Math.floor(Math.random() * availableTopics.length)];
-      }
-      return topic;
+      return availableTopics[Math.floor(Math.random() * availableTopics.length)];
     }
 
     // Fetch a random user (username and profile picture) from Random User API.
@@ -201,7 +180,7 @@
     function renderPost(fact, userData) {
       var styles = ['twitter', 'bluesky', 'instagram', 'tiktok'];
       var selectedStyle = styles[Math.floor(Math.random() * styles.length)];
-      console.log(selectedStyle);
+      console.log("Rendering style:", selectedStyle);
       switch(selectedStyle) {
         case 'twitter':
           return renderTwitterPost(fact, userData);
@@ -219,13 +198,14 @@
     // Load a random fact from the chosen topic JSON and render the post.
     function loadTopic() {
       var topic = getSelectedTopic();
-      $.getJSON('topics/'+topic + '.json', function(data) {
+      $.getJSON('topics/' + topic + '.json', function(data) {
         var randomFact = data[Math.floor(Math.random() * data.length)];
         currentFact = randomFact;
         getRandomUser().then(function(userData) {
           $('#postContent').html(renderPost(randomFact, userData));
-          // Clear any previous explanation.
+          // Clear any previous explanation and ensure buttons are visible.
           $('#responseContainer').addClass('d-none').html('');
+          $("#buttonContainer").show();
         });
       }).fail(function() {
         $('#postContent').html('<p class="text-danger">Failed to load data for ' + topic + '.</p>');
@@ -235,14 +215,12 @@
     $(document).ready(function(){
       loadTopic();
 
-      $('#topicSelect').change(function(){
-        loadTopic();
-      });
-
       // Handle True/False answer clicks.
       $('#buttonContainer').on('click', '#trueBtn, #falseBtn', function(){
         // Prevent multiple submissions.
         if(!$('#responseContainer').hasClass('d-none')) return;
+        // Hide the true/false buttons after an answer is clicked.
+        $("#buttonContainer").hide();
         var selectedAnswer = $(this).attr('id') === 'trueBtn';
         var explanationHTML = '';
         if(selectedAnswer === currentFact.answer) {
