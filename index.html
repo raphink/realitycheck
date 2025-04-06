@@ -53,6 +53,7 @@
         <option value="health">Health &amp; Wellness</option>
         <option value="internet">Internet &amp; Tech</option>
         <option value="space">Space &amp; Aliens</option>
+        <option value="environment">Environment &amp; Climate</option>
       </select>
     </div>
     <!-- Post Card -->
@@ -79,7 +80,7 @@
     var currentTopic = $('#topicSelect').val();
 
     // List of available topics (corresponds to JSON file names)
-    var availableTopics = ["history", "science", "politics", "health", "internet", "space"];
+    var availableTopics = ["history", "science", "politics", "health", "internet", "space", "environment"];
 
     // Function to pick a topic if "random" is selected.
     function getSelectedTopic() {
