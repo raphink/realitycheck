@@ -162,9 +162,7 @@
       var likes = Math.floor(Math.random() * 15000);
       var imageHtml = getRandomImageHtml(fact);
       if (!imageHtml) {
-        imageHtml = '<div class="post-image my-3">' +
-                      '<img src="https://via.placeholder.com/500" alt="Post Image">' +
-                    '</div>';
+        imageHtml = getRandomImageHtml();
       }
       return '<div class="post-header d-flex align-items-center mb-2">' +
                '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
@@ -184,9 +182,7 @@
       var likes = Math.floor(Math.random() * 20000);
       var imageHtml = getRandomImageHtml(fact);
       if (!imageHtml) {
-        imageHtml = '<div class="post-image my-3">' +
-                      '<img src="https://via.placeholder.com/500x800" alt="Video Thumbnail">' +
-                    '</div>';
+        imageHtml = getRandomImageHtml();
       }
       return '<div class="position-relative text-white" style="border-radius:5px; overflow:hidden;">' +
                imageHtml +
@@ -202,6 +198,7 @@
     function renderPost(fact, userData) {
       var styles = ['twitter', 'bluesky', 'instagram', 'tiktok'];
       var selectedStyle = styles[Math.floor(Math.random() * styles.length)];
+      console.log(selectedStyle);
       switch(selectedStyle) {
         case 'twitter':
           return renderTwitterPost(fact, userData);
