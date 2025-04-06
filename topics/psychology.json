@@ -48,5 +48,311 @@
     "text": "You’re more likely to remember emotional memories wrong. Feelings override facts. 😭🧩",
     "answer": true,
     "explanation": "Yes. Strong emotions affect how memories are stored and recalled—often inaccurately."
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): you can hypnotize yourself to erase traumatic memories permanently.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): people with green eyes are naturally better at reading emotions.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, left-handed people are more likely to be psychic.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: you can increase your IQ by listening to Mozart for 20 minutes a day.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, smiling, even when you\u2019re sad, tricks your brain into happiness forever.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how you only dream in black and white if you're emotionally repressed.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: if someone looks up and to the left, they're definitely lying.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Still waiting for someone to explain why watching horror movies increases your emotional resilience.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): everyone has a secret 'killer instinct' that's activated under pressure.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: introverts use a different part of their brain than extroverts.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Still waiting for someone to explain why people who swear a lot are more honest.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how you can rewire your personality in 21 days.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: the shape of your head determines your cognitive abilities.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "I did my own research and found that mirror neurons allow you to feel other people\u2019s thoughts.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, multitasking increases mental stamina and brain size.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how psychopaths are immune to hypnosis.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Not a coincidence that being born in winter makes you more prone to depression.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, all phobias are inherited through DNA.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Scientists don't want you to know this, but you can develop telepathy through focused meditation.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, the brain stops developing after age 25 and starts shrinking immediately.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how mental illness is just a social construct created by pharmaceutical companies.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): if you forget a memory, it means it wasn\u2019t important to begin with.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: dreams are literal predictions of the future.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how people with high intelligence have fewer friends by default.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): you can control someone\u2019s decisions by copying their posture.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): if you yawn and someone else doesn\u2019t, they might be a sociopath.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, all geniuses are night owls by nature.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: daydreaming means you're not satisfied with your reality.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how the brain can store more data than the internet.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how every fear you have is a sign of past-life trauma.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Not a coincidence that coloring in mandalas cures anxiety completely.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: emotional intelligence can't be learned\u2014it\u2019s purely genetic.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Still waiting for someone to explain why you can detect lies just by monitoring someone's blink rate.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: left-brain dominant people are immune to persuasion.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how psychological disorders are caused by planetary misalignment.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, your personality changes every 7 years like clockwork.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "I did my own research and found that the number of dreams you remember shows your mental clarity.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how watching TV rewires your subconscious for obedience.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Scientists don't want you to know this, but crying in your sleep is a sign of psychic awakening.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): everyone has multiple personalities, but only some are aware of them.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "No one talks about this but your handwriting reveals your deepest fears.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how you can boost memory by tapping your forehead three times.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Scientists don't want you to know this, but extroverts physically absorb energy from others.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Scientists don't want you to know this, but color preferences reflect unresolved emotional trauma.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Still waiting for someone to explain why eating chocolate unlocks suppressed childhood memories.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: introverts have larger hippocampi than extroverts.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Can we talk about how psychology textbooks are updated to reflect government agendas.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "Just realized something crazy: therapy only works if you believe in your therapist\u2019s aura.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "I did my own research and found that your love language is determined by the moment of your birth.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "If you think about it, mirror exposure can reveal your true personality.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
+  },
+  {
+    "text": "No one talks about this but lucid dreaming is proof that your brain has no limits.",
+    "answer": false,
+    "explanation": "This statement reflects a common misconception or pseudoscientific belief about psychology.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Psychology"
   }
 ]
