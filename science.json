@@ -1,17 +1,502 @@
 [
-    {
-      "id": "001",
-      "text": "Water boils at 100°C at sea level.",
-      "answer": true,
-      "explanation": "At sea level, water boils at 100°C under standard atmospheric pressure.",
-      "tags": ["science"]
-    },
-    {
-      "id": "002",
-      "text": "Humans have five senses.",
-      "answer": false,
-      "explanation": "Humans have additional senses beyond the traditional five (e.g., balance, proprioception).",
-      "tags": ["science"]
-    }
-  ]
-  
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "The Great Wall of China is the only man-made object visible from space. \ud83d\udef0\ufe0f\ud83c\udde8\ud83c\uddf3",
+    "answer": false,
+    "explanation": "Not true. Many human structures are visible from space, and the Great Wall often isn\u2019t, due to its narrow width and color."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "The Great Wall of China is the only man-made object visible from space. \ud83d\udef0\ufe0f\ud83c\udde8\ud83c\uddf3",
+    "answer": false,
+    "explanation": "Not true. Many human structures are visible from space, and the Great Wall often isn\u2019t, due to its narrow width and color."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "The Great Wall of China is the only man-made object visible from space. \ud83d\udef0\ufe0f\ud83c\udde8\ud83c\uddf3",
+    "answer": false,
+    "explanation": "Not true. Many human structures are visible from space, and the Great Wall often isn\u2019t, due to its narrow width and color."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "The Great Wall of China is the only man-made object visible from space. \ud83d\udef0\ufe0f\ud83c\udde8\ud83c\uddf3",
+    "answer": false,
+    "explanation": "Not true. Many human structures are visible from space, and the Great Wall often isn\u2019t, due to its narrow width and color."
+  },
+  {
+    "text": "Bananas are naturally radioactive \ud83c\udf4c\u269b\ufe0f",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring isotope that makes them slightly radioactive."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Octopuses have three hearts and blue blood. Nature is wild. \ud83d\udc19\ud83d\udc99",
+    "answer": true,
+    "explanation": "True! Two hearts pump blood to the gills, and one to the body. Their copper-based blood is blue."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "The Great Wall of China is the only man-made object visible from space. \ud83d\udef0\ufe0f\ud83c\udde8\ud83c\uddf3",
+    "answer": false,
+    "explanation": "Not true. Many human structures are visible from space, and the Great Wall often isn\u2019t, due to its narrow width and color."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Sharks never get cancer. Big Pharma doesn\u2019t want you to know this. \ud83e\udd88\ud83d\ude24",
+    "answer": false,
+    "explanation": "False. Sharks can and do get cancer. This myth was popularized by a misleading book."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "There's a species of jellyfish that can essentially live forever. Immortality is real. \ud83d\udd01\ud83d\udc21",
+    "answer": true,
+    "explanation": "Yes! *Turritopsis dohrnii* can revert to an earlier life stage, potentially repeating the cycle indefinitely."
+  },
+  {
+    "text": "Did you know? The Earth is closer to the sun in winter than in summer. Mind blown. \ud83c\udf0d\u2744\ufe0f",
+    "answer": true,
+    "explanation": "True! Earth's seasons are caused by the tilt of its axis, not its distance from the sun."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "The human body literally glows in the dark\u2014but our eyes can\u2019t see it. \u2728\ud83e\uddcd",
+    "answer": true,
+    "explanation": "This is true! Humans emit small amounts of bioluminescence, but it\u2019s a thousand times too weak to be visible."
+  },
+  {
+    "text": "Microwaving food destroys all the nutrients. Just eat raw. \ud83c\udf72\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope! Microwaving can actually preserve nutrients better than boiling or frying."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Humans only use 10% of their brains. Imagine the potential! \ud83e\udde0\ud83d\udca5",
+    "answer": false,
+    "explanation": "False. Brain imaging shows we use virtually every part of our brain."
+  },
+  {
+    "text": "Water conducts electricity, that\u2019s why it\u2019s dangerous. \ud83d\udca7\u26a1",
+    "answer": false,
+    "explanation": "Pure water doesn\u2019t conduct electricity well. It\u2019s the impurities (like salts) that make it conductive."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  },
+  {
+    "text": "If the sun disappeared, we wouldn\u2019t know for 8 minutes. \u2600\ufe0f\ud83d\udd57",
+    "answer": true,
+    "explanation": "Correct. Light from the sun takes about 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "text": "If you drop a penny from the Empire State Building, it could kill someone. \ud83e\ude99\u2620\ufe0f",
+    "answer": false,
+    "explanation": "A myth! A penny is too small and flat; air resistance slows it down too much to be lethal."
+  }
+]
