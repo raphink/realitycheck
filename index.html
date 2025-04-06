@@ -6,7 +6,6 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <style>
-    /* Basic styling for the post simulation */
     .post {
       background: #fff;
       border: 1px solid #ddd;
@@ -27,11 +26,9 @@
       border-radius: 50%;
       margin-right: 10px;
     }
-    .post-content {
-      font-size: 16px;
-    }
-    .post-footer {
-      margin-top: 10px;
+    .post-image img {
+      width: 100%;
+      border-radius: 5px;
     }
     #scoreContainer {
       font-size: 18px;
@@ -39,14 +36,21 @@
       margin-bottom: 20px;
       text-align: center;
     }
+    /* TikTok overlay style */
+    .overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0,0,0,0.5);
+      padding: 10px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <h1 class="text-center my-4">RealityCheck</h1>
-    <!-- Score Display -->
     <div id="scoreContainer">Score: 0</div>
-    <!-- Topic Selection -->
     <div class="form-group">
       <label for="topicSelect">Select Topic:</label>
       <select class="form-control" id="topicSelect">
@@ -55,11 +59,9 @@
         <option value="politics">Politics</option>
       </select>
     </div>
-    <!-- Post Container -->
     <div id="postContainer" class="post">
       <!-- Random post will be rendered here -->
     </div>
-    <!-- Response Container -->
     <div id="responseContainer" class="alert d-none"></div>
   </div>
 
@@ -72,54 +74,158 @@
     var score = 0;
     var currentTopic = $('#topicSelect').val();
 
-    // Function to fetch a random credible user (name and profile picture) using the Random User API.
+    // Fetch a random credible user from Random User API.
     function getRandomUser() {
       return $.getJSON('https://randomuser.me/api/').then(function(data) {
         var user = data.results[0];
-        // Use a combination of first and last name or the login username.
         var username = "@" + user.login.username;
-        // Use the thumbnail picture as the profile image.
         var profilePicUrl = user.picture.thumbnail;
         return { username: username, profilePicUrl: profilePicUrl };
       });
     }
 
-    // Function to render a post (simulated social media style) with a provided username and profile picture.
-    function renderPost(fact, userData) {
-      // Generate random numbers for likes and retweets.
-      var likes = Math.floor(Math.random() * 10000);
-      var retweets = Math.floor(Math.random() * 500);
-      
-      // Build the HTML content.
-      var postHTML = '<div class="post-header">' +
-                        '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
-                        '<strong>' + userData.username + '</strong>' +
-                     '</div>' +
-                     '<div class="post-content">' +
-                        '<p>' + fact.text + '</p>' +
-                     '</div>' +
-                     '<div class="post-footer">' +
-                        '<small>Likes: ' + likes + ' | Retweets: ' + retweets + '</small>' +
-                     '</div>' +
-                     '<div class="mt-3">' +
-                        '<button class="btn btn-success" id="trueBtn">True</button> ' +
-                        '<button class="btn btn-danger" id="falseBtn">False</button>' +
-                     '</div>';
-      return postHTML;
+    // Optionally include a random image from Picsum Photos (70% chance).
+    function getRandomImageHtml(fact) {
+      if (Math.random() < 0.7) {
+        var imageUrl = "https://picsum.photos/500/300?random=" + Math.random();
+        return '<div class="post-image" style="margin-top:10px;">' +
+                 '<img src="' + imageUrl + '" alt="Random image">' +
+               '</div>';
+      }
+      return '';
     }
 
-    // Function to update the score display.
+    // ----- Style-specific renderers -----
+
+    // Twitter-like post style.
+    function renderTwitterPost(fact, userData) {
+      var likes = Math.floor(Math.random() * 10000);
+      var retweets = Math.floor(Math.random() * 500);
+      var timeStamp = Math.floor(Math.random() * 12) + "h";
+      var imageHtml = getRandomImageHtml(fact);
+      return '<div class="post-header">' +
+               '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
+               '<strong>' + userData.username + '</strong> ' +
+               '<span class="text-muted">@' + userData.username.slice(1) + '</span> ' +
+               '<span class="text-muted">· ' + timeStamp + '</span>' +
+             '</div>' +
+             imageHtml +
+             '<div class="post-content">' +
+               '<p>' + fact.text + '</p>' +
+             '</div>' +
+             '<div class="post-footer">' +
+               '<small>Likes: ' + likes + ' | Retweets: ' + retweets + '</small>' +
+             '</div>' +
+             '<div class="mt-3">' +
+               '<button class="btn btn-success" id="trueBtn">True</button> ' +
+               '<button class="btn btn-danger" id="falseBtn">False</button>' +
+             '</div>';
+    }
+
+    // Bluesky-like post style.
+    function renderBlueskyPost(fact, userData) {
+      var likes = Math.floor(Math.random() * 8000);
+      var reposts = Math.floor(Math.random() * 400);
+      var timeStamp = Math.floor(Math.random() * 12) + "h";
+      var imageHtml = getRandomImageHtml(fact);
+      return '<div class="post-header" style="background:#e7f3ff; padding:8px; border-radius:5px;">' +
+               '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
+               '<strong>' + userData.username + '</strong> ' +
+               '<span class="text-muted">· ' + timeStamp + '</span>' +
+             '</div>' +
+             imageHtml +
+             '<div class="post-content" style="margin-top:10px;">' +
+               '<p>' + fact.text + '</p>' +
+             '</div>' +
+             '<div class="post-footer" style="margin-top:8px;">' +
+               '<small>Likes: ' + likes + ' | Reposts: ' + reposts + '</small>' +
+             '</div>' +
+             '<div class="mt-3">' +
+               '<button class="btn btn-success" id="trueBtn">True</button> ' +
+               '<button class="btn btn-danger" id="falseBtn">False</button>' +
+             '</div>';
+    }
+
+    // Instagram-like post style.
+    function renderInstagramPost(fact, userData) {
+      var likes = Math.floor(Math.random() * 15000);
+      var imageHtml = getRandomImageHtml(fact);
+      // For Instagram, ensure an image is shown.
+      if (!imageHtml) {
+        imageHtml = '<div class="post-image" style="margin-top:10px;">' +
+                      '<img src="https://via.placeholder.com/500" alt="Post Image">' +
+                    '</div>';
+      }
+      return '<div class="post-header">' +
+               '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
+               '<strong>' + userData.username + '</strong>' +
+             '</div>' +
+             imageHtml +
+             '<div class="post-content" style="margin-top:10px;">' +
+               '<p>' + fact.text + '</p>' +
+             '</div>' +
+             '<div class="post-footer" style="margin-top:8px;">' +
+               '<small>Likes: ' + likes + '</small>' +
+             '</div>' +
+             '<div class="mt-3">' +
+               '<button class="btn btn-success" id="trueBtn">True</button> ' +
+               '<button class="btn btn-danger" id="falseBtn">False</button>' +
+             '</div>';
+    }
+
+    // TikTok-like post style.
+    function renderTikTokPost(fact, userData) {
+      var likes = Math.floor(Math.random() * 20000);
+      var imageHtml = getRandomImageHtml(fact);
+      // For TikTok, if no image was added, force a placeholder.
+      if (!imageHtml) {
+        imageHtml = '<div class="post-image" style="margin-top:10px;">' +
+                      '<img src="https://via.placeholder.com/500x800" alt="Video Thumbnail">' +
+                    '</div>';
+      }
+      return '<div class="post-tiktok" style="position: relative; color: white; border-radius:5px; overflow:hidden;">' +
+               imageHtml +
+               '<div class="overlay">' +
+                 '<strong>' + userData.username + '</strong><br>' +
+                 '<p>' + fact.text + '</p>' +
+                 '<small>Likes: ' + likes + '</small>' +
+               '</div>' +
+             '</div>' +
+             '<div class="mt-3">' +
+               '<button class="btn btn-success" id="trueBtn">True</button> ' +
+               '<button class="btn btn-danger" id="falseBtn">False</button>' +
+             '</div>';
+    }
+
+    // Randomly choose one of the styles and render the post.
+    function renderPost(fact, userData) {
+      var styles = ['twitter', 'bluesky', 'instagram', 'tiktok'];
+      var selectedStyle = styles[Math.floor(Math.random() * styles.length)];
+      switch(selectedStyle) {
+        case 'twitter':
+          return renderTwitterPost(fact, userData);
+        case 'bluesky':
+          return renderBlueskyPost(fact, userData);
+        case 'instagram':
+          return renderInstagramPost(fact, userData);
+        case 'tiktok':
+          return renderTikTokPost(fact, userData);
+        default:
+          return renderTwitterPost(fact, userData);
+      }
+    }
+
+    // Update the score display.
     function updateScoreDisplay() {
       $('#scoreContainer').text("Score: " + score);
     }
 
-    // Function to load a random fact from a given topic JSON file.
+    // Load a random fact from the chosen topic JSON and render it.
     function loadTopic(topic) {
       currentTopic = topic;
       $.getJSON(topic + '.json', function(data) {
         var randomFact = data[Math.floor(Math.random() * data.length)];
         currentFact = randomFact;
-        // Get a credible user from the Random User API.
         getRandomUser().then(function(userData) {
           $('#postContainer').html(renderPost(randomFact, userData));
           $('#responseContainer').addClass('d-none').html('');
@@ -130,19 +236,15 @@
     }
 
     $(document).ready(function(){
-      // Load the default topic when the page loads.
       loadTopic($('#topicSelect').val());
 
-      // Reload posts when a new topic is selected.
       $('#topicSelect').change(function(){
         loadTopic($(this).val());
       });
 
-      // Handle click on True/False buttons using event delegation.
+      // Handle answer selection.
       $('#postContainer').on('click', '#trueBtn, #falseBtn', function(){
-        // Prevent multiple answers per post.
         if(!$('#responseContainer').hasClass('d-none')) return;
-        
         var selectedAnswer = $(this).attr('id') === 'trueBtn';
         var explanationHTML = '';
         if(selectedAnswer === currentFact.answer) {
@@ -152,12 +254,11 @@
         } else {
           explanationHTML = '<strong>Incorrect.</strong> ' + currentFact.explanation;
         }
-        // Append a "Next" button after the explanation.
         explanationHTML += '<br><br><button class="btn btn-primary" id="nextBtn">Next</button>';
         $('#responseContainer').removeClass('d-none').html(explanationHTML);
       });
 
-      // Handle click on Next button.
+      // Handle next button.
       $('#responseContainer').on('click', '#nextBtn', function(){
         loadTopic(currentTopic);
       });
