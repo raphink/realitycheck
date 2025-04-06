@@ -54,6 +54,7 @@
     <div class="form-group">
       <label for="topicSelect">Select Topic:</label>
       <select class="form-control" id="topicSelect">
+        <option value="random" selected>Random</option>
         <option value="history">History</option>
         <option value="science">Science</option>
         <option value="politics">Politics</option>
@@ -82,6 +83,19 @@
     var currentFact = null;
     var score = 0;
     var currentTopic = $('#topicSelect').val();
+
+    // List of available topics (corresponds to JSON file names)
+    var availableTopics = ["history", "science", "politics"];
+
+    // Function to pick a topic if "random" is selected.
+    function getSelectedTopic() {
+      var topic = $('#topicSelect').val();
+      if(topic === "random") {
+        // Randomly choose one from availableTopics.
+        topic = availableTopics[Math.floor(Math.random() * availableTopics.length)];
+      }
+      return topic;
+    }
 
     // Fetch a random user (username and profile picture) from Random User API.
     function getRandomUser() {
@@ -153,7 +167,6 @@
     function renderInstagramPost(fact, userData) {
       var likes = Math.floor(Math.random() * 15000);
       var imageHtml = getRandomImageHtml(fact);
-      // Ensure Instagram posts always include an image.
       if (!imageHtml) {
         imageHtml = '<div class="post-image my-3">' +
                       '<img src="https://via.placeholder.com/500" alt="Post Image">' +
@@ -214,8 +227,9 @@
       $('#scoreContainer').text("Score: " + score);
     }
 
-    // Load a random fact from a topic-specific JSON file and render the post.
-    function loadTopic(topic) {
+    // Load a random fact from the chosen topic JSON and render the post.
+    function loadTopic() {
+      var topic = getSelectedTopic();
       currentTopic = topic;
       $.getJSON(topic + '.json', function(data) {
         var randomFact = data[Math.floor(Math.random() * data.length)];
@@ -231,10 +245,10 @@
     }
 
     $(document).ready(function(){
-      loadTopic($('#topicSelect').val());
+      loadTopic();
 
       $('#topicSelect').change(function(){
-        loadTopic($(this).val());
+        loadTopic();
       });
 
       // Handle True/False answer clicks.
@@ -256,7 +270,7 @@
 
       // Handle Next button.
       $('#responseContainer').on('click', '#nextBtn', function(){
-        loadTopic(currentTopic);
+        loadTopic();
       });
     });
   </script>
