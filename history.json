@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Marie Antoinette said 'Let them eat cake.' \ud83c\udf82\ud83d\udc51",
+    "answer": false,
+    "explanation": "Almost certainly false. The phrase was attributed to her years later without evidence."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "The Eiffel Tower can grow taller in summer. \ud83c\udf21\ufe0f\ud83d\uddfc",
+    "answer": true,
+    "explanation": "Yes! Heat causes the metal to expand, making it grow by about 6 inches in summer."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Marie Antoinette said 'Let them eat cake.' \ud83c\udf82\ud83d\udc51",
+    "answer": false,
+    "explanation": "Almost certainly false. The phrase was attributed to her years later without evidence."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "The Eiffel Tower can grow taller in summer. \ud83c\udf21\ufe0f\ud83d\uddfc",
+    "answer": true,
+    "explanation": "Yes! Heat causes the metal to expand, making it grow by about 6 inches in summer."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "The Eiffel Tower can grow taller in summer. \ud83c\udf21\ufe0f\ud83d\uddfc",
+    "answer": true,
+    "explanation": "Yes! Heat causes the metal to expand, making it grow by about 6 inches in summer."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "The Eiffel Tower can grow taller in summer. \ud83c\udf21\ufe0f\ud83d\uddfc",
+    "answer": true,
+    "explanation": "Yes! Heat causes the metal to expand, making it grow by about 6 inches in summer."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "Oxford University is older than the Aztec Empire. \ud83c\udf93\ud83d\uddff",
+    "answer": true,
+    "explanation": "Correct. Oxford was founded in 1096, while the Aztec Empire began around 1428."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "The Eiffel Tower can grow taller in summer. \ud83c\udf21\ufe0f\ud83d\uddfc",
+    "answer": true,
+    "explanation": "Yes! Heat causes the metal to expand, making it grow by about 6 inches in summer."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "Vikings wore horned helmets into battle. \ud83d\udee1\ufe0f\ud83e\udd8c",
+    "answer": false,
+    "explanation": "False. There\u2019s no evidence of horned helmets in battle\u2014it\u2019s a 19th-century theatrical myth."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "George Washington didn\u2019t have wooden teeth. \ud83e\uddb7\ud83c\uddfa\ud83c\uddf8",
+    "answer": true,
+    "explanation": "True. His dentures were made from a mix of ivory, human teeth, and metal\u2014but not wood."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "Marie Antoinette said 'Let them eat cake.' \ud83c\udf82\ud83d\udc51",
+    "answer": false,
+    "explanation": "Almost certainly false. The phrase was attributed to her years later without evidence."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "The Great Fire of London wiped out the Black Plague. \ud83d\udd25\ud83d\udc80",
+    "answer": false,
+    "explanation": "Nope. The Great Fire happened in 1666; the major plague outbreaks ended decades earlier."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "Napoleon wasn\u2019t actually short\u2014he was average height for his time. \ud83e\uddcd\u200d\u2642\ufe0f\ud83c\uddeb\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Correct. He was about 5'6\" or 5'7\"\u2014normal for 18th-century France. The 'short' myth was British propaganda."
+  },
+  {
+    "text": "The Library of Alexandria contained all human knowledge. \ud83d\udcda\ud83d\udd25",
+    "answer": false,
+    "explanation": "A myth. It was a major library, but 'all human knowledge' is an exaggeration."
+  },
+  {
+    "text": "The shortest war in history lasted just 38 minutes. \u23f1\ufe0f\u2694\ufe0f",
+    "answer": true,
+    "explanation": "True! The Anglo-Zanzibar War of 1896 is the shortest recorded war in history."
+  },
+  {
+    "text": "Cleopatra lived closer in time to the moon landing than to the construction of the pyramids. \ud83e\udd2f\ud83d\udcdc\ud83d\ude80",
+    "answer": true,
+    "explanation": "True! The pyramids were built around 2560 BCE, Cleopatra lived ~30 BCE, and the moon landing was in 1969 CE."
+  },
+  {
+    "text": "Columbus proved the Earth was round. \ud83c\udf0d\ud83d\udea2",
+    "answer": false,
+    "explanation": "False. Most educated people in 1492 already knew the Earth was round."
+  },
+  {
+    "text": "Napoleon was defeated at Waterloo because it rained. \ud83c\udf27\ufe0f\u2694\ufe0f",
+    "answer": false,
+    "explanation": "While rain delayed the battle, many other factors led to Napoleon's defeat."
+  }
+]
