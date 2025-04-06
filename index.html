@@ -620,7 +620,11 @@
         // Add "Learn More" link if available and Next button
         feedbackText += `<div class="d-flex justify-content-between align-items-center mt-2">`;
         
-        if (currentFact.source) {
+        if (currentFact.url) {
+          feedbackText += `<a href="${currentFact.url}" target="_blank" class="btn btn-sm btn-info">
+                             <i class="fas fa-external-link-alt"></i> Learn More
+                           </a>`;
+        } else if (currentFact.source) {
           feedbackText += `<a href="${currentFact.source}" target="_blank" class="btn btn-sm btn-info">
                              <i class="fas fa-external-link-alt"></i> Learn More
                            </a>`;
