@@ -1,17 +1,502 @@
 [
-    {
-      "id": "001",
-      "text": "The United Nations was established after World War II.",
-      "answer": true,
-      "explanation": "The UN was founded in 1945 after World War II to promote international cooperation.",
-      "tags": ["politics"]
-    },
-    {
-      "id": "002",
-      "text": "All countries have the same form of government.",
-      "answer": false,
-      "explanation": "Countries around the world have diverse forms of government, ranging from democracies to monarchies and authoritarian regimes.",
-      "tags": ["politics"]
-    }
-  ]
-  
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "North Korea technically still isn\u2019t at peace with South Korea. The war just\u2026 paused. \u23f8\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Yes. The Korean War ended in an armistice, not a peace treaty, in 1953."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "North Korea technically still isn\u2019t at peace with South Korea. The war just\u2026 paused. \u23f8\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Yes. The Korean War ended in an armistice, not a peace treaty, in 1953."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "North Korea technically still isn\u2019t at peace with South Korea. The war just\u2026 paused. \u23f8\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Yes. The Korean War ended in an armistice, not a peace treaty, in 1953."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "In Canada, it\u2019s illegal to insult the Prime Minister online. Even if it's just a meme. \ud83c\udde8\ud83c\udde6\ud83d\udeab\ud83d\uddbc\ufe0f",
+    "answer": false,
+    "explanation": "False. Canada has free speech protections; satire and criticism of public figures is legal."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "In Canada, it\u2019s illegal to insult the Prime Minister online. Even if it's just a meme. \ud83c\udde8\ud83c\udde6\ud83d\udeab\ud83d\uddbc\ufe0f",
+    "answer": false,
+    "explanation": "False. Canada has free speech protections; satire and criticism of public figures is legal."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "All politicians in the U.S. must have law degrees. It\u2019s like, a rule or something. \ud83c\udf93\ud83c\udfdb\ufe0f",
+    "answer": false,
+    "explanation": "False. Many U.S. politicians are lawyers, but there\u2019s no legal requirement to have a law degree."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The Electoral College means someone can become U.S. president while losing the popular vote\u2014and it\u2019s happened more than once. \ud83e\uddee\ud83e\udd2f",
+    "answer": true,
+    "explanation": "True. It\u2019s happened five times in U.S. history, most recently in 2016."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "I used to think voting was universal, but did you know Switzerland didn\u2019t let women vote nationally until 1971? Yeah. 1971. \ud83d\uddf3\ufe0f\ud83c\udde8\ud83c\udded",
+    "answer": true,
+    "explanation": "Correct. Swiss women gained the right to vote in federal elections in 1971."
+  },
+  {
+    "text": "Communism means everyone earns the same no matter what. Like doctors and janitors? Exactly the same. \ud83e\uddd1\u200d\u2695\ufe0f\ud83e\uddf9",
+    "answer": false,
+    "explanation": "False. That\u2019s an oversimplification\u2014communism in theory is about common ownership, not fixed wages."
+  },
+  {
+    "text": "North Korea technically still isn\u2019t at peace with South Korea. The war just\u2026 paused. \u23f8\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7",
+    "answer": true,
+    "explanation": "Yes. The Korean War ended in an armistice, not a peace treaty, in 1953."
+  },
+  {
+    "text": "The U.N. can\u2019t actually enforce international law unless countries agree to it. It\u2019s more suggestion than power. \ud83c\udf10\u2696\ufe0f",
+    "answer": true,
+    "explanation": "True. The U.N. relies heavily on voluntary compliance and consensus among member states."
+  },
+  {
+    "text": "The Queen of England still approves all British laws. That\u2019s real monarchy power right there. \ud83d\udc51\ud83d\udcdc",
+    "answer": false,
+    "explanation": "False. The royal assent is ceremonial\u2014laws are made by Parliament."
+  },
+  {
+    "text": "The U.S. president can press a red button and instantly launch nukes with no oversight. Like a movie. \u2622\ufe0f\ud83d\udd34",
+    "answer": false,
+    "explanation": "False. While the president has broad authority, multiple steps and people are involved in the process."
+  },
+  {
+    "text": "People keep saying the U.S. is a democracy, but technically it\u2019s a constitutional republic. Wild how many don\u2019t know that. \ud83c\uddfa\ud83c\uddf8\ud83d\udcdc",
+    "answer": true,
+    "explanation": "True. The U.S. is a constitutional federal republic, not a direct democracy."
+  },
+  {
+    "text": "In Canada, it\u2019s illegal to insult the Prime Minister online. Even if it's just a meme. \ud83c\udde8\ud83c\udde6\ud83d\udeab\ud83d\uddbc\ufe0f",
+    "answer": false,
+    "explanation": "False. Canada has free speech protections; satire and criticism of public figures is legal."
+  },
+  {
+    "text": "In Canada, it\u2019s illegal to insult the Prime Minister online. Even if it's just a meme. \ud83c\udde8\ud83c\udde6\ud83d\udeab\ud83d\uddbc\ufe0f",
+    "answer": false,
+    "explanation": "False. Canada has free speech protections; satire and criticism of public figures is legal."
+  }
+]
