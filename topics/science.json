@@ -1,69 +1,21 @@
 [
   {
-    "text": "Bananas are radioactive and no one seems bothered by that. 🍌⚠️",
-    "answer": true,
-    "explanation": "Bananas contain potassium-40, a naturally occurring radioactive isotope. Safe to eat, don't worry.",
-    "url": "https://www.epa.gov/radtown/bananas-and-other-foods-have-natural-radiation"
-  },
-  {
-    "text": "Why did I think seasons were because of how far Earth is from the sun? Like… that makes zero sense. 🧠💥",
-    "answer": true,
-    "explanation": "Seasons are caused by Earth's axial tilt. It's a common misconception!",
-    "url": "https://spaceplace.nasa.gov/seasons/en/"
-  },
-  {
-    "text": "Humans only use 10% of their brains. Imagine if we unlocked the other 90%! 🧠🔓",
+    "text": "Omg did you know that NASA spent millions developing a pen that works in space while Russians just used a pencil?? 🚀✏️",
     "answer": false,
-    "explanation": "False. Brain scans show we use most of our brain regularly. The 10% myth is baseless.",
-    "url": "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
+    "explanation": "Both space programs initially used pencils, but graphite is hazardous in space. The Fisher Space Pen was privately developed, not by NASA.",
+    "url": "https://www.scientificamerican.com/article/fact-or-fiction-nasa-spen/"
   },
   {
-    "text": "Wait... no one told me the Earth is actually closest to the sun in January? I've been lied to by every school science fair. 🥶☀️",
-    "answer": true,
-    "explanation": "Yes! Earth is closest to the sun in early January. Seasons are caused by axial tilt, not distance.",
-    "url": "https://www.nasa.gov/image-article/earths-orbital-variations-and-ice-ages/"
-  },
-  {
-    "text": "Lightning never strikes the same place twice. Nature's fair, I guess? ⚡🤷‍♂️",
+    "text": "Chameleons change color to match their surroundings for camouflage. Nature is so smart! 🦎🎨",
     "answer": false,
-    "explanation": "Not true. Tall structures like the Empire State Building get hit dozens of times a year.",
-    "url": "https://www.weather.gov/safety/lightning-myths"
+    "explanation": "Chameleons primarily change color to regulate temperature or communicate mood/intentions, not for camouflage.",
+    "url": "https://www.nationalgeographic.com/animals/article/chameleon-color-change-lifesize"
   },
   {
-    "text": "Just learned water is blue because it absorbs red light. My whole life was a lie. 💧👀",
-    "answer": true,
-    "explanation": "Water does absorb red wavelengths more than blue ones, making it appear blue in sufficient volumes.",
-    "url": "https://www.usgs.gov/special-topics/water-science-school/science/water-color"
-  },
-  {
-    "text": "So you're telling me that taste zones on the tongue (sweet, salty, etc.) are fake?? My elementary school poster lied? 👅😱",
-    "answer": true,
-    "explanation": "The 'tongue map' is a myth. All taste buds can detect all tastes, though with slight sensitivity differences.",
-    "url": "https://www.smithsonianmag.com/science-nature/neat-and-tidy-map-tastes-tongue-you-learned-school-all-wrong-180963407/"
-  },
-  {
-    "text": "Apparently daddy longlegs are the most venomous spiders but their fangs are too small to bite us. Sleep tight! 🕷️😘",
+    "text": "Our entire body completely replaces itself every 7-10 years. You're literally not the same person you were a decade ago 🔄👤",
     "answer": false,
-    "explanation": "False on two counts: they aren't spiders (they're harvestmen) and they aren't venomous at all.",
-    "url": "https://www.nationalgeographic.com/animals/article/daddy-longlegs-spiders-myths-misconceptions"
-  },
-  {
-    "text": "Found out today that the Great Wall of China is NOT visible from space with the naked eye. My childhood was based on lies. 🧱🔭",
-    "answer": true,
-    "explanation": "True. Astronauts confirm it's not visible to the naked eye from the ISS, though many other human structures are.",
-    "url": "https://www.nasa.gov/missions/station/can-you-see-the-great-wall-of-china-from-space/"
-  },
-  {
-    "text": "Glass is actually a liquid that flows very slowly. That's why old windows are thicker at the bottom! 🪟⏳",
-    "answer": false,
-    "explanation": "Glass is an amorphous solid. Old windows are thicker at the bottom due to manufacturing methods, not flow.",
-    "url": "https://www.scientificamerican.com/article/fact-fiction-glass-liquid/"
-  },
-  {
-    "text": "Just found out that humans have more than 5 senses. Mind = blown. We actually have like 20+ senses! 🤯👁️👂👃👅✋",
-    "answer": true,
-    "explanation": "Besides the classic five, we sense balance, temperature, pain, time, and body position among others.",
-    "url": "https://www.bbcearth.com/news/the-sensitive-human"
+    "explanation": "Different cells regenerate at different rates. Some cells last a lifetime, including most neurons and eye lens cells.",
+    "url": "https://www.livescience.com/33179-does-human-body-replace-cells-seven-years.html"
   },
   {
     "text": "So apparently all the cells in your body are replaced every 7 years. Am I even the same person anymore? 🔄👤",
@@ -72,52 +24,574 @@
     "url": "https://www.livescience.com/33179-does-human-body-replace-cells-seven-years.html"
   },
   {
-    "text": "Can't believe I just found out we have tiny mites living in our eyelashes?? I want a refund on this body 😫🔬",
-    "answer": true,
-    "explanation": "Demodex mites live in human hair follicles, including eyelashes. They're harmless for most people.",
-    "url": "https://www.aao.org/eye-health/tips-prevention/what-are-eyelash-mites-demodex"
+    "text": "Apparently daddy longlegs are the most venomous spiders but their fangs are too small to bite us. Sleep tight! 🕷️😘",
+    "answer": false,
+    "explanation": "False on two counts: they aren't spiders (they're harvestmen) and they aren't venomous at all.",
+    "url": "https://www.nationalgeographic.com/animals/article/daddy-longlegs-spiders-myths-misconceptions"
   },
   {
-    "text": "Someone just told me that a day on Venus is longer than a year on Venus and I think I need to lie down 🌙🌞",
-    "answer": true,
-    "explanation": "True! Venus rotates so slowly that one day (243 Earth days) is longer than its year (225 Earth days).",
-    "url": "https://solarsystem.nasa.gov/planets/venus/in-depth/"
+    "text": "Humans only use 10% of their brains. Imagine if we unlocked the other 90%! 🧠🔓",
+    "answer": false,
+    "explanation": "False. Brain scans show we use most of our brain regularly. The 10% myth is baseless.",
+    "url": "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
   },
   {
-    "text": "Did y'all know it takes EIGHT MINUTES for sunlight to reach Earth? If the sun exploded right now we wouldn't know for 8 min 💀☀️",
-    "answer": true,
-    "explanation": "Light from the sun takes about 8 minutes and 20 seconds to reach Earth, traveling at 186,000 miles/second.",
-    "url": "https://www.space.com/how-long-does-light-take-to-travel-from-the-sun-to-earth"
+    "text": "Glass is actually a liquid that flows very slowly. That's why old windows are thicker at the bottom! 🪟⏳",
+    "answer": false,
+    "explanation": "Glass is an amorphous solid. Old windows are thicker at the bottom due to manufacturing methods, not flow.",
+    "url": "https://www.scientificamerican.com/article/fact-fiction-glass-liquid/"
   },
   {
-    "text": "Omg just found out the Sahara Desert used to be lush and green a few thousand years ago?? Climate change is WILD 🏜️🌱",
-    "answer": true,
-    "explanation": "The Sahara was indeed green with lakes and vegetation about 6,000-10,000 years ago due to natural climate changes.",
-    "url": "https://www.sciencedaily.com/releases/2016/11/161130141053.htm"
+    "text": "Lightning never strikes the same place twice. Nature's fair, I guess? ⚡🤷‍♂️",
+    "answer": false,
+    "explanation": "Not true. Tall structures like the Empire State Building get hit dozens of times a year.",
+    "url": "https://www.weather.gov/safety/lightning-myths"
   },
   {
-    "text": "Apparently a group of flamingos is called a \"flamboyance\" and that's just perfect 💅💖",
-    "answer": true,
-    "explanation": "A group of flamingos is indeed called a flamboyance, though they can also be called a colony or a stand.",
-    "url": "https://www.nationalgeographic.com/animals/birds/facts/american-flamingo"
+    "text": "Did y'all know that an octopus has 9 brains? One central brain and 8 mini-brains (one in each arm)!! 🐙🧠",
+    "answer": false,
+    "explanation": "Octopuses have one central brain and nerve clusters in each arm that allow independent movement, but not 9 brains.",
+    "url": "https://www.scientificamerican.com/article/the-mind-of-an-octopus/"
   },
   {
-    "text": "Caffeine doesn't actually give you energy. It just blocks the receptors that make you feel tired. My whole coffee life is a lie ☕😩",
-    "answer": true,
-    "explanation": "Caffeine works by blocking adenosine receptors in your brain, preventing the feeling of tiredness.",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/"
+    "text": "Just learned that human saliva has a painkiller stronger than morphine?? Why am I not licking my wounds?? 🤤💊",
+    "answer": false,
+    "explanation": "Saliva has mild pain-relieving compounds but nothing stronger than morphine. This is a common exaggeration.",
+    "url": "https://www.sciencefocus.com/the-human-body/is-it-true-that-our-saliva-contains-a-painkiller-six-times-stronger-than-morphine/"
   },
   {
-    "text": "Did you know that goldfish memory actually lasts months, not seconds? Finding Nemo lied to us 🐠🧠",
-    "answer": true,
-    "explanation": "Goldfish can remember things for months and can even be trained to respond to certain sounds.",
-    "url": "https://www.livescience.com/goldfish-memory.html"
+    "text": "The average person swallows 8 spiders in their sleep every year. Sleep tight! 🕷️😴",
+    "answer": false,
+    "explanation": "This is a completely fabricated myth. Spiders avoid humans and have no reason to enter your mouth while you sleep.",
+    "url": "https://www.scientificamerican.com/article/fact-or-fiction-people-swallow-8-spiders-a-year-while-sleeping/"
   },
   {
-    "text": "TIL that if you fold a piece of paper 42 times, it would reach the moon. Math is wild 📝🌕",
-    "answer": true,
-    "explanation": "Due to exponential growth, a paper folded 42 times would indeed be thick enough to reach the moon.",
-    "url": "https://www.sciencefocus.com/science/what-would-happen-if-you-could-fold-a-piece-of-paper-in-half-an-infinite-number-of-times/"
+    "text": "Can we talk about how black holes are portals to alternate timelines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how human hair stores ancestral memories.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how plants can feel your emotions and adjust their growth accordingly.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how plants scream when you eat them, they just use ultrasonic frequencies.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how radio waves can rewire your brain without you knowing.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how solar flares are signals from alien civilizations.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how the Earth flips poles every decade and that's why we forget history.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how the Milky Way is actually a giant neural network.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how the moon controls your personality more than your DNA.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how water spins differently in the Northern and Southern Hemispheres due to Earth's chakra alignment.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how wearing copper makes your blood circulate better because of magnetism.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Can we talk about how you can photosynthesize if you eat enough chlorophyll.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): climate change is just the sun getting closer.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): electrons are tiny conscious beings.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): gravity doesn't exist; density and buoyancy explain everything.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): gravity is just a theory—they can't even prove it.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): plants scream when you eat them, they just use ultrasonic frequencies.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): radio waves can rewire your brain without you knowing.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): solar flares are signals from alien civilizations.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): space doesn't exist; it's just the ocean upside-down.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): the Earth breathes once every 24 hours.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): there's a frequency that can unlock your third eye.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): time zones were created to confuse people about the shape of Earth.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that being barefoot connects you to Earth's energy grid.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that black holes are portals to alternate timelines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that gravity doesn't exist; density and buoyancy explain everything.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that gravity is just a theory—they can't even prove it.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that oceans glow at night because of moonlight energy.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that radio waves can rewire your brain without you knowing.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that solar flares are signals from alien civilizations.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that the Earth flips poles every decade and that's why we forget history.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that the sun is cold and emits light through reflection, not heat.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "I did my own research and found that you can't get sunburnt if your aura is balanced.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, atoms are mostly empty, so technically we should fall through everything.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, black holes are portals to alternate timelines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, human hair stores ancestral memories.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, quantum entanglement proves we're all part of a hive mind.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, the Earth breathes once every 24 hours.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, the moon is actually a giant hologram controlled by NASA.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, time moves faster when you're being watched—quantum proof.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, wearing quartz crystals protects you from 5G mind control.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "If you think about it, you can't get sunburnt if your aura is balanced.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: electrons are tiny conscious beings.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: satellites are fake—it's all done with balloons.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: solar flares are signals from alien civilizations.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: the moon controls your personality more than your DNA.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: water spins differently in the Northern and Southern Hemispheres due to Earth's chakra alignment.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: you can photosynthesize if you eat enough chlorophyll.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Just realized something crazy: you can't get sunburnt if your aura is balanced.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: DNA can be reprogrammed with positive thinking.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: human hair stores ancestral memories.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: humans only use 10% of their brains—imagine unlocking the rest.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: quantum entanglement proves we're all part of a hive mind.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the Earth flips poles every decade and that's why we forget history.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the Milky Way is actually a giant neural network.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the color of your eyes determines your immune strength.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the moon controls your personality more than your DNA.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: vaccines work by changing your DNA into synthetic code.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: you can photosynthesize if you eat enough chlorophyll.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "No one talks about this but Earth is flat and Antarctica is the ice wall keeping us in.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "No one talks about this but clouds are government-controlled weather machines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "No one talks about this but the Earth breathes once every 24 hours.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that black holes are portals to alternate timelines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that climate change is just the sun getting closer.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that clouds are government-controlled weather machines.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that gravity is just a theory—they can't even prove it.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that if you sleep under a pyramid, you heal faster.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that oceans glow at night because of moonlight energy.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that plants can feel your emotions and adjust their growth accordingly.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that the pyramids were built using sound vibrations to levitate stones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Not a coincidence that time moves faster when you're being watched—quantum proof.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but atoms are mostly empty, so technically we should fall through everything.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but birds aren't real—they're surveillance drones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but electrons are tiny conscious beings.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but gravity is just a theory—they can't even prove it.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but quantum entanglement proves we're all part of a hive mind.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but the pyramids were built using sound vibrations to levitate stones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but there's a frequency that can unlock your third eye.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Scientists don't want you to know this, but wearing copper makes your blood circulate better because of magnetism.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why atoms are mostly empty, so technically we should fall through everything.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why birds aren't real—they're surveillance drones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why human hair stores ancestral memories.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why humans only use 10% of their brains—imagine unlocking the rest.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why quantum entanglement proves we're all part of a hive mind.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why space doesn't exist; it's just the ocean upside-down.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why the Earth breathes once every 24 hours.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why time zones were created to confuse people about the shape of Earth.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+  },
+  {
+    "text": "Still waiting for someone to explain why vaccines work by changing your DNA into synthetic code.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
   },
   {
     "text": "Apparently we shed around 40 pounds of skin cells every year and I'm suddenly feeling itchy 🤢💀",
@@ -126,22 +600,148 @@
     "url": "https://www.healthline.com/health/skin/how-much-skin-do-we-shed"
   },
   {
+    "text": "Apparently a blue whale's heart is so big that a human could swim through its arteries?? The absolute unit of hearts 🐋❤️",
+    "answer": false,
+    "explanation": "While blue whale hearts are huge (about the size of a small car), their arteries aren't large enough for a human to swim through.",
+    "url": "https://www.nhm.ac.uk/discover/facts-about-blue-whales.html"
+  },
+  {
+    "text": "TIL that figs are actually full of dead wasps. They're not vegan!!! 🐝🍑",
+    "answer": false,
+    "explanation": "While fig wasps do pollinate figs and sometimes die inside, commercial figs are mostly self-pollinating varieties that don't require wasps.",
+    "url": "https://www.sciencefocus.com/nature/is-it-true-there-are-dead-wasps-in-figs/"
+  },
+  {
+    "text": "We're all drinking dinosaur pee because water gets recycled. Sweet dreams tonight! 🦕💧",
+    "answer": false,
+    "explanation": "While water molecules do cycle through the ecosystem, most water molecules break apart and reform, not remaining intact for millions of years.",
+    "url": "https://www.scientificamerican.com/article/the-earth-has-a-limited-supply-of-fresh-water/"
+  },
+  {
+    "text": "Apparently a group of flamingos is called a \"flamboyance\" and that's just perfect 💅💖",
+    "answer": true,
+    "explanation": "A group of flamingos is indeed called a flamboyance, though they can also be called a colony or a stand.",
+    "url": "https://www.nationalgeographic.com/animals/birds/facts/american-flamingo"
+  },
+  {
+    "text": "TIL that babies are born without kneecaps. They're just cartilage until they're 3-5 years old! 👶🦴",
+    "answer": true,
+    "explanation": "Babies have cartilage that gradually ossifies into bone kneecaps (patellae) between ages 3-5.",
+    "url": "https://www.healthline.com/health/do-babies-have-kneecaps"
+  },
+  {
+    "text": "Bananas are radioactive and no one seems bothered by that. 🍌⚠️",
+    "answer": true,
+    "explanation": "Bananas contain potassium-40, a naturally occurring radioactive isotope. Safe to eat, don't worry.",
+    "url": "https://www.epa.gov/radtown/bananas-and-other-foods-have-natural-radiation"
+  },
+  {
+    "text": "Did y'all know that bees can recognize human faces?? They remember who's been nice to them 🐝👀",
+    "answer": true,
+    "explanation": "Bees can indeed recognize and remember individual human faces, despite their tiny brains.",
+    "url": "https://www.scientificamerican.com/article/bees-can-recognize-individual-human-faces/"
+  },
+  {
+    "text": "Just found out that humans have more than 5 senses. Mind = blown. We actually have like 20+ senses! 🤯👁️👂👃👅✋",
+    "answer": true,
+    "explanation": "Besides the classic five, we sense balance, temperature, pain, time, and body position among others.",
+    "url": "https://www.bbcearth.com/news/the-sensitive-human"
+  },
+  {
+    "text": "Strawberries aren't berries but bananas are??? What kind of botanical scam is this? 🍓🍌",
+    "answer": true,
+    "explanation": "Botanically, strawberries are 'aggregate fruits' while bananas meet the definition of berries (fleshy fruits from a single flower).",
+    "url": "https://www.mcgill.ca/oss/article/did-you-know/bananas-are-berries-strawberries-are-not"
+  },
+  {
+    "text": "Just learned that tomatoes are FRUITS, not vegetables. My entire culinary life is a lie 🍅🤯",
+    "answer": true,
+    "explanation": "Botanically, tomatoes are fruits (they contain seeds and develop from the flower of the plant). Culinarily, they're treated as vegetables.",
+    "url": "https://www.britannica.com/story/is-a-tomato-a-fruit-or-a-vegetable"
+  },
+  {
+    "text": "Caffeine doesn't actually give you energy. It just blocks the receptors that make you feel tired. My whole coffee life is a lie ☕😩",
+    "answer": true,
+    "explanation": "Caffeine works by blocking adenosine receptors in your brain, preventing the feeling of tiredness.",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/"
+  },
+  {
+    "text": "TIL a cockroach can live for WEEKS without its head. I'm not sleeping tonight 🪳💀",
+    "answer": true,
+    "explanation": "Cockroaches breathe through spiracles and have a decentralized nervous system, allowing them to live headless until they starve.",
+    "url": "https://www.scientificamerican.com/article/fact-or-fiction-cockroach-can-live-without-head/"
+  },
+  {
+    "text": "Just found out ice cream has seaweed in it??? I've been eating PLANTS?? 🍦🌊",
+    "answer": true,
+    "explanation": "Commercial ice cream often contains carrageenan, an extract from seaweed used as a stabilizer and thickener.",
+    "url": "https://www.scientificamerican.com/article/the-science-of-ice-cream/"
+  },
+  {
+    "text": "Can't believe I just found out we have tiny mites living in our eyelashes?? I want a refund on this body 😫🔬",
+    "answer": true,
+    "explanation": "Demodex mites live in human hair follicles, including eyelashes. They're harmless for most people.",
+    "url": "https://www.aao.org/eye-health/tips-prevention/what-are-eyelash-mites-demodex"
+  },
+  {
+    "text": "TIL that if you fold a piece of paper 42 times, it would reach the moon. Math is wild 📝🌕",
+    "answer": true,
+    "explanation": "Due to exponential growth, a paper folded 42 times would indeed be thick enough to reach the moon.",
+    "url": "https://www.sciencefocus.com/science/what-would-happen-if-you-could-fold-a-piece-of-paper-in-half-an-infinite-number-of-times/"
+  },
+  {
+    "text": "Did you know there are more trees on Earth than stars in the Milky Way? Mind blown. 🌳✨",
+    "answer": true,
+    "explanation": "Earth has approximately 3 trillion trees, while the Milky Way has an estimated 100-400 billion stars.",
+    "url": "https://www.nature.com/articles/nature14967"
+  },
+  {
+    "text": "A platypus is so weird that when scientists first found one, they thought it was a hoax sewn together by a taxidermist 🦆🦦",
+    "answer": true,
+    "explanation": "European scientists initially believed the platypus specimen was a fraud created by stitching duck parts to an otter-like animal.",
+    "url": "https://www.nationalgeographic.com/animals/article/platypus-evolution-history-study"
+  },
+  {
+    "text": "Did you know that goldfish memory actually lasts months, not seconds? Finding Nemo lied to us 🐠🧠",
+    "answer": true,
+    "explanation": "Goldfish can remember things for months and can even be trained to respond to certain sounds.",
+    "url": "https://www.livescience.com/goldfish-memory.html"
+  },
+  {
     "text": "Just learned that honey never spoils. Archaeologists found 3000-year-old honey in Egyptian tombs and it was still good 🍯⏱️",
     "answer": true,
     "explanation": "Honey's low moisture content and acidity prevent microbial growth, allowing it to last indefinitely if properly sealed.",
     "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
   },
   {
-    "text": "Just found out that dolphins and whales literally can't breathe automatically. They have to CHOOSE to take each breath. Imagine! 🐬😴",
+    "text": "We share 50% of our DNA with bananas and I don't know what to do with this information 🧬🍌",
     "answer": true,
-    "explanation": "Unlike humans, cetaceans are conscious breathers - they must actively decide when to surface and breathe.",
-    "url": "https://us.whales.org/whales-dolphins/how-do-whales-and-dolphins-sleep/"
+    "explanation": "Humans do share about 50% of their DNA with bananas, showing our deep evolutionary connections to all life.",
+    "url": "https://www.genome.gov/dna-day/15-ways/compare-genomes"
   },
   {
-    "text": "TIL the human appendix isn't useless after all! It stores good bacteria to repopulate your gut after illness. Evolution knew what it was doing 👏🦠",
+    "text": "Just found out our kitchens are actually dirtier than our toilets?? The cutting board has more bacteria than the toilet seat?! 🔪🚽",
     "answer": true,
-    "explanation": "The appendix appears to serve as a reservoir for beneficial gut bacteria, helping to recolonize the gut after illness.",
-    "url": "https://www.sciencedaily.com/releases/2007/10/071008102334.htm"
+    "explanation": "Kitchen items like sponges, cutting boards and sinks often harbor more bacteria than toilet seats, which are typically cleaned more often.",
+    "url": "https://www.webmd.com/a-to-z-guides/news/20110415/the-6-dirtiest-places-in-your-home"
+  },
+  {
+    "text": "Did y'all know it takes EIGHT MINUTES for sunlight to reach Earth? If the sun exploded right now we wouldn't know for 8 min 💀☀️",
+    "answer": true,
+    "explanation": "Light from the sun takes about 8 minutes and 20 seconds to reach Earth, traveling at 186,000 miles/second.",
+    "url": "https://www.space.com/how-long-does-light-take-to-travel-from-the-sun-to-earth"
+  },
+  {
+    "text": "Been told since forever that lightning never strikes the same place twice. LIES. Empire State Building gets hit 25+ times a year! ⚡🏙️",
+    "answer": true,
+    "explanation": "Lightning frequently strikes the same places, especially tall structures. The Empire State Building is hit dozens of times annually.",
+    "url": "https://www.weather.gov/safety/lightning-myths"
+  },
+  {
+    "text": "You know those scribbles you see when you close your eyes? They have a name - Phosphenes! Even blind people see them 👁️✨",
+    "answer": true,
+    "explanation": "Phosphenes are the light and color patterns we see when our eyes are closed, caused by pressure on the retina or electrical charges.",
+    "url": "https://www.scientificamerican.com/article/what-are-colorful-concentric-circles-i-see-when-i-close-my-eyes/"
   },
   {
     "text": "Wait, so plants actually SCREAM when they're stressed or cut? Just silently? I'm never mowing my lawn again 🌱😱",
@@ -156,142 +756,16 @@
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031938407004088"
   },
   {
-    "text": "Just learned that human saliva has a painkiller stronger than morphine?? Why am I not licking my wounds?? 🤤💊",
-    "answer": false,
-    "explanation": "Saliva has mild pain-relieving compounds but nothing stronger than morphine. This is a common exaggeration.",
-    "url": "https://www.sciencefocus.com/the-human-body/is-it-true-that-our-saliva-contains-a-painkiller-six-times-stronger-than-morphine/"
-  },
-  {
-    "text": "Did y'all know that bees can recognize human faces?? They remember who's been nice to them 🐝👀",
-    "answer": true,
-    "explanation": "Bees can indeed recognize and remember individual human faces, despite their tiny brains.",
-    "url": "https://www.scientificamerican.com/article/bees-can-recognize-individual-human-faces/"
-  },
-  {
-    "text": "TIL a cockroach can live for WEEKS without its head. I'm not sleeping tonight 🪳💀",
-    "answer": true,
-    "explanation": "Cockroaches breathe through spiracles and have a decentralized nervous system, allowing them to live headless until they starve.",
-    "url": "https://www.scientificamerican.com/article/fact-or-fiction-cockroach-can-live-without-head/"
-  },
-  {
-    "text": "Hot water actually freezes faster than cold water. Physics is broken and I want my money back 🧊🔥",
-    "answer": true,
-    "explanation": "Under certain conditions, hot water can freeze faster than cold water - known as the Mpemba effect.",
-    "url": "https://www.scientificamerican.com/article/is-it-true-that-hot-water/"
-  },
-  {
-    "text": "Strawberries aren't berries but bananas are??? What kind of botanical scam is this? 🍓🍌",
-    "answer": true,
-    "explanation": "Botanically, strawberries are 'aggregate fruits' while bananas meet the definition of berries (fleshy fruits from a single flower).",
-    "url": "https://www.mcgill.ca/oss/article/did-you-know/bananas-are-berries-strawberries-are-not"
-  },
-  {
-    "text": "Just found out our kitchens are actually dirtier than our toilets?? The cutting board has more bacteria than the toilet seat?! 🔪🚽",
-    "answer": true,
-    "explanation": "Kitchen items like sponges, cutting boards and sinks often harbor more bacteria than toilet seats, which are typically cleaned more often.",
-    "url": "https://www.webmd.com/a-to-z-guides/news/20110415/the-6-dirtiest-places-in-your-home"
-  },
-  {
-    "text": "The average person swallows 8 spiders in their sleep every year. Sleep tight! 🕷️😴",
-    "answer": false,
-    "explanation": "This is a completely fabricated myth. Spiders avoid humans and have no reason to enter your mouth while you sleep.",
-    "url": "https://www.scientificamerican.com/article/fact-or-fiction-people-swallow-8-spiders-a-year-while-sleeping/"
-  },
-  {
-    "text": "Omg did you know that NASA spent millions developing a pen that works in space while Russians just used a pencil?? 🚀✏️",
-    "answer": false,
-    "explanation": "Both space programs initially used pencils, but graphite is hazardous in space. The Fisher Space Pen was privately developed, not by NASA.",
-    "url": "https://www.scientificamerican.com/article/fact-or-fiction-nasa-spen/"
-  },
-  {
     "text": "TIL there's a cloud of alcohol in space that's large enough to make 400 trillion trillion pints of beer 🍻🌠",
     "answer": true,
     "explanation": "Sagittarius B2 is a cloud containing ethyl alcohol (among other chemicals) spanning billions of kilometers.",
     "url": "https://www.nationalgeographic.com/science/article/151007-space-beer-alcohol-molecule-science"
   },
   {
-    "text": "We share 50% of our DNA with bananas and I don't know what to do with this information 🧬🍌",
+    "text": "Why did I think seasons were because of how far Earth is from the sun? Like… that makes zero sense. 🧠💥",
     "answer": true,
-    "explanation": "Humans do share about 50% of their DNA with bananas, showing our deep evolutionary connections to all life.",
-    "url": "https://www.genome.gov/dna-day/15-ways/compare-genomes"
-  },
-  {
-    "text": "Did y'all know that an octopus has 9 brains? One central brain and 8 mini-brains (one in each arm)!! 🐙🧠",
-    "answer": false,
-    "explanation": "Octopuses have one central brain and nerve clusters in each arm that allow independent movement, but not 9 brains.",
-    "url": "https://www.scientificamerican.com/article/the-mind-of-an-octopus/"
-  },
-  {
-    "text": "TIL that babies are born without kneecaps. They're just cartilage until they're 3-5 years old! 👶🦴",
-    "answer": true,
-    "explanation": "Babies have cartilage that gradually ossifies into bone kneecaps (patellae) between ages 3-5.",
-    "url": "https://www.healthline.com/health/do-babies-have-kneecaps"
-  },
-  {
-    "text": "Just found out ice cream has seaweed in it??? I've been eating PLANTS?? 🍦🌊",
-    "answer": true,
-    "explanation": "Commercial ice cream often contains carrageenan, an extract from seaweed used as a stabilizer and thickener.",
-    "url": "https://www.scientificamerican.com/article/the-science-of-ice-cream/"
-  },
-  {
-    "text": "A platypus is so weird that when scientists first found one, they thought it was a hoax sewn together by a taxidermist 🦆🦦",
-    "answer": true,
-    "explanation": "European scientists initially believed the platypus specimen was a fraud created by stitching duck parts to an otter-like animal.",
-    "url": "https://www.nationalgeographic.com/animals/article/platypus-evolution-history-study"
-  },
-  {
-    "text": "You know those scribbles you see when you close your eyes? They have a name - Phosphenes! Even blind people see them 👁️✨",
-    "answer": true,
-    "explanation": "Phosphenes are the light and color patterns we see when our eyes are closed, caused by pressure on the retina or electrical charges.",
-    "url": "https://www.scientificamerican.com/article/what-are-colorful-concentric-circles-i-see-when-i-close-my-eyes/"
-  },
-  {
-    "text": "We're all drinking dinosaur pee because water gets recycled. Sweet dreams tonight! 🦕💧",
-    "answer": false,
-    "explanation": "While water molecules do cycle through the ecosystem, most water molecules break apart and reform, not remaining intact for millions of years.",
-    "url": "https://www.scientificamerican.com/article/the-earth-has-a-limited-supply-of-fresh-water/"
-  },
-  {
-    "text": "Our entire body completely replaces itself every 7-10 years. You're literally not the same person you were a decade ago 🔄👤",
-    "answer": false,
-    "explanation": "Different cells regenerate at different rates. Some cells last a lifetime, including most neurons and eye lens cells.",
-    "url": "https://www.livescience.com/33179-does-human-body-replace-cells-seven-years.html"
-  },
-  {
-    "text": "Apparently a blue whale's heart is so big that a human could swim through its arteries?? The absolute unit of hearts 🐋❤️",
-    "answer": false,
-    "explanation": "While blue whale hearts are huge (about the size of a small car), their arteries aren't large enough for a human to swim through.",
-    "url": "https://www.nhm.ac.uk/discover/facts-about-blue-whales.html"
-  },
-  {
-    "text": "Just learned that tomatoes are FRUITS, not vegetables. My entire culinary life is a lie 🍅🤯",
-    "answer": true,
-    "explanation": "Botanically, tomatoes are fruits (they contain seeds and develop from the flower of the plant). Culinarily, they're treated as vegetables.",
-    "url": "https://www.britannica.com/story/is-a-tomato-a-fruit-or-a-vegetable"
-  },
-  {
-    "text": "TIL that figs are actually full of dead wasps. They're not vegan!!! 🐝🍑",
-    "answer": false,
-    "explanation": "While fig wasps do pollinate figs and sometimes die inside, commercial figs are mostly self-pollinating varieties that don't require wasps.",
-    "url": "https://www.sciencefocus.com/nature/is-it-true-there-are-dead-wasps-in-figs/"
-  },
-  {
-    "text": "Did you know there are more trees on Earth than stars in the Milky Way? Mind blown. 🌳✨",
-    "answer": true,
-    "explanation": "Earth has approximately 3 trillion trees, while the Milky Way has an estimated 100-400 billion stars.",
-    "url": "https://www.nature.com/articles/nature14967"
-  },
-  {
-    "text": "Been told since forever that lightning never strikes the same place twice. LIES. Empire State Building gets hit 25+ times a year! ⚡🏙️",
-    "answer": true,
-    "explanation": "Lightning frequently strikes the same places, especially tall structures. The Empire State Building is hit dozens of times annually.",
-    "url": "https://www.weather.gov/safety/lightning-myths"
-  },
-  {
-    "text": "Australia once lost a war against emus. Not even kidding. An actual bird defeated their military 🇦🇺🐦",
-    "answer": true,
-    "explanation": "The 'Emu War' of 1932 was a failed attempt to cull emus in Western Australia that became a humorous historical footnote.",
-    "url": "https://www.nationalgeographic.com/animals/article/history-when-humans-waged-war-on-emus"
+    "explanation": "Seasons are caused by Earth's axial tilt. It's a common misconception!",
+    "url": "https://spaceplace.nasa.gov/seasons/en/"
   },
   {
     "text": "Just found out that the T-Rex lived closer in time to humans than to the Stegosaurus. Time is BROKEN 🦖⏰",
@@ -300,609 +774,63 @@
     "url": "https://www.nhm.ac.uk/discover/dinosaur-extinction.html"
   },
   {
-    "text": "Chameleons change color to match their surroundings for camouflage. Nature is so smart! 🦎🎨",
-    "answer": false,
-    "explanation": "Chameleons primarily change color to regulate temperature or communicate mood/intentions, not for camouflage.",
-    "url": "https://www.nationalgeographic.com/animals/article/chameleon-color-change-lifesize"
+    "text": "Australia once lost a war against emus. Not even kidding. An actual bird defeated their military 🇦🇺🐦",
+    "answer": true,
+    "explanation": "The 'Emu War' of 1932 was a failed attempt to cull emus in Western Australia that became a humorous historical footnote.",
+    "url": "https://www.nationalgeographic.com/animals/article/history-when-humans-waged-war-on-emus"
   },
   {
-    "text": "Fun fact (they won't teach you this in school): gravity is just a theory\u2014they can't even prove it.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "So you're telling me that taste zones on the tongue (sweet, salty, etc.) are fake?? My elementary school poster lied? 👅😱",
+    "answer": true,
+    "explanation": "The 'tongue map' is a myth. All taste buds can detect all tastes, though with slight sensitivity differences.",
+    "url": "https://www.smithsonianmag.com/science-nature/neat-and-tidy-map-tastes-tongue-you-learned-school-all-wrong-180963407/"
   },
   {
-    "text": "Can we talk about how wearing copper makes your blood circulate better because of magnetism.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Omg just found out the Sahara Desert used to be lush and green a few thousand years ago?? Climate change is WILD 🏜️🌱",
+    "answer": true,
+    "explanation": "The Sahara was indeed green with lakes and vegetation about 6,000-10,000 years ago due to natural climate changes.",
+    "url": "https://www.sciencedaily.com/releases/2016/11/161130141053.htm"
   },
   {
-    "text": "Mainstream science is hiding the truth: you can photosynthesize if you eat enough chlorophyll.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "TIL the human appendix isn't useless after all! It stores good bacteria to repopulate your gut after illness. Evolution knew what it was doing 👏🦠",
+    "answer": true,
+    "explanation": "The appendix appears to serve as a reservoir for beneficial gut bacteria, helping to recolonize the gut after illness.",
+    "url": "https://www.sciencedaily.com/releases/2007/10/071008102334.htm"
   },
   {
-    "text": "Fun fact (they won't teach you this in school): electrons are tiny conscious beings.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Someone just told me that a day on Venus is longer than a year on Venus and I think I need to lie down 🌙🌞",
+    "answer": true,
+    "explanation": "True! Venus rotates so slowly that one day (243 Earth days) is longer than its year (225 Earth days).",
+    "url": "https://solarsystem.nasa.gov/planets/venus/in-depth/"
   },
   {
-    "text": "If you think about it, black holes are portals to alternate timelines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Found out today that the Great Wall of China is NOT visible from space with the naked eye. My childhood was based on lies. 🧱🔭",
+    "answer": true,
+    "explanation": "True. Astronauts confirm it's not visible to the naked eye from the ISS, though many other human structures are.",
+    "url": "https://www.nasa.gov/missions/station/can-you-see-the-great-wall-of-china-from-space/"
   },
   {
-    "text": "Not a coincidence that plants can feel your emotions and adjust their growth accordingly.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Hot water actually freezes faster than cold water. Physics is broken and I want my money back 🧊🔥",
+    "answer": true,
+    "explanation": "Under certain conditions, hot water can freeze faster than cold water - known as the Mpemba effect.",
+    "url": "https://www.scientificamerican.com/article/is-it-true-that-hot-water/"
   },
   {
-    "text": "Scientists don't want you to know this, but gravity is just a theory\u2014they can't even prove it.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Just found out that dolphins and whales literally can't breathe automatically. They have to CHOOSE to take each breath. Imagine! 🐬😴",
+    "answer": true,
+    "explanation": "Unlike humans, cetaceans are conscious breathers - they must actively decide when to surface and breathe.",
+    "url": "https://us.whales.org/whales-dolphins/how-do-whales-and-dolphins-sleep/"
   },
   {
-    "text": "Fun fact (they won't teach you this in school): space doesn't exist; it's just the ocean upside-down.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Just learned water is blue because it absorbs red light. My whole life was a lie. 💧👀",
+    "answer": true,
+    "explanation": "Water does absorb red wavelengths more than blue ones, making it appear blue in sufficient volumes.",
+    "url": "https://www.usgs.gov/special-topics/water-science-school/science/water-color"
   },
   {
-    "text": "Mainstream science is hiding the truth: the moon controls your personality more than your DNA.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that gravity is just a theory\u2014they can't even prove it.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, time moves faster when you're being watched\u2014quantum proof.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, wearing quartz crystals protects you from 5G mind control.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: DNA can be reprogrammed with positive thinking.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that clouds are government-controlled weather machines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but quantum entanglement proves we're all part of a hive mind.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: water spins differently in the Northern and Southern Hemispheres due to Earth's chakra alignment.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "No one talks about this but Earth is flat and Antarctica is the ice wall keeping us in.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how the Earth flips poles every decade and that's why we forget history.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: quantum entanglement proves we're all part of a hive mind.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why vaccines work by changing your DNA into synthetic code.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): gravity doesn't exist; density and buoyancy explain everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): time zones were created to confuse people about the shape of Earth.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why the Earth breathes once every 24 hours.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how plants scream when you eat them, they just use ultrasonic frequencies.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that you can't get sunburnt if your aura is balanced.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): gravity doesn't exist; density and buoyancy explain everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): radio waves can rewire your brain without you knowing.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that climate change is just the sun getting closer.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that time moves faster when you're being watched\u2014quantum proof.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): plants scream when you eat them, they just use ultrasonic frequencies.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: human hair stores ancestral memories.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how black holes are portals to alternate timelines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: vaccines work by changing your DNA into synthetic code.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "No one talks about this but clouds are government-controlled weather machines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why humans only use 10% of their brains\u2014imagine unlocking the rest.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why time zones were created to confuse people about the shape of Earth.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: the color of your eyes determines your immune strength.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how water spins differently in the Northern and Southern Hemispheres due to Earth's chakra alignment.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): the Earth breathes once every 24 hours.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: you can't get sunburnt if your aura is balanced.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: humans only use 10% of their brains\u2014imagine unlocking the rest.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that gravity doesn't exist; density and buoyancy explain everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, atoms are mostly empty, so technically we should fall through everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why human hair stores ancestral memories.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but atoms are mostly empty, so technically we should fall through everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but the pyramids were built using sound vibrations to levitate stones.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "No one talks about this but clouds are government-controlled weather machines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): space doesn't exist; it's just the ocean upside-down.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that if you sleep under a pyramid, you heal faster.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why space doesn't exist; it's just the ocean upside-down.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that oceans glow at night because of moonlight energy.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that the Earth flips poles every decade and that's why we forget history.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how you can photosynthesize if you eat enough chlorophyll.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: the Milky Way is actually a giant neural network.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, you can't get sunburnt if your aura is balanced.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how the Milky Way is actually a giant neural network.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that plants can feel your emotions and adjust their growth accordingly.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that oceans glow at night because of moonlight energy.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why atoms are mostly empty, so technically we should fall through everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: the moon controls your personality more than your DNA.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that black holes are portals to alternate timelines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but birds aren't real\u2014they're surveillance drones.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: electrons are tiny conscious beings.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "No one talks about this but the Earth breathes once every 24 hours.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): gravity doesn't exist; density and buoyancy explain everything.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "No one talks about this but the Earth breathes once every 24 hours.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that being barefoot connects you to Earth's energy grid.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how radio waves can rewire your brain without you knowing.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but electrons are tiny conscious beings.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): electrons are tiny conscious beings.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, quantum entanglement proves we're all part of a hive mind.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how human hair stores ancestral memories.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why birds aren't real\u2014they're surveillance drones.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how plants can feel your emotions and adjust their growth accordingly.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: satellites are fake\u2014it's all done with balloons.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but there's a frequency that can unlock your third eye.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how the moon controls your personality more than your DNA.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: the moon controls your personality more than your DNA.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how solar flares are signals from alien civilizations.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, the Earth breathes once every 24 hours.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Mainstream science is hiding the truth: the Earth flips poles every decade and that's why we forget history.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Still waiting for someone to explain why quantum entanglement proves we're all part of a hive mind.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: you can't get sunburnt if your aura is balanced.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, the moon is actually a giant hologram controlled by NASA.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that the pyramids were built using sound vibrations to levitate stones.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that gravity is just a theory\u2014they can't even prove it.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): climate change is just the sun getting closer.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Can we talk about how wearing copper makes your blood circulate better because of magnetism.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Scientists don't want you to know this, but wearing copper makes your blood circulate better because of magnetism.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Not a coincidence that black holes are portals to alternate timelines.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Fun fact (they won't teach you this in school): there's a frequency that can unlock your third eye.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that the sun is cold and emits light through reflection, not heat.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "If you think about it, human hair stores ancestral memories.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "Just realized something crazy: you can photosynthesize if you eat enough chlorophyll.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
-  },
-  {
-    "text": "I did my own research and found that radio waves can rewire your brain without you knowing.",
-    "answer": false,
-    "explanation": "This statement is scientifically inaccurate or a common misconception.",
-    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
+    "text": "Wait... no one told me the Earth is actually closest to the sun in January? I've been lied to by every school science fair. 🥶☀️",
+    "answer": true,
+    "explanation": "Yes! Earth is closest to the sun in early January. Seasons are caused by axial tilt, not distance.",
+    "url": "https://www.nasa.gov/image-article/earths-orbital-variations-and-ice-ages/"
   }
 ]
