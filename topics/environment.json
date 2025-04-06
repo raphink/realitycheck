@@ -48,5 +48,311 @@
     "text": "Climate change isn't just about polar bears. It messes with food, water, weather, everything. 🐻‍❄️🌾",
     "answer": true,
     "explanation": "Yes. Climate change affects agriculture, sea levels, storms, and more—not just Arctic wildlife."
+  },
+  {
+    "text": "No one talks about this but planting plastic trees helps absorb more carbon than real ones.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why global warming is just a natural sun cycle and not caused by humans.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how electric cars produce more pollution than gas cars over their lifetime.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): climate change is a hoax created to raise taxes.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how volcanoes emit more CO2 than all human activity combined.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why recycling actually harms the environment more than it helps.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, the ozone layer heals itself every night, so it's not a real issue.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but solar panels leak toxic radiation into the atmosphere.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, wind turbines disrupt Earth's magnetic field.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why deforestation increases oxygen production in the long run.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Scientists don't want you to know this, but composting releases dangerous levels of methane into the air.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): eco-friendly products are all just regular products with green labels.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how melting ice caps don\u2019t affect sea levels because ice floats.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Just realized something crazy: oceans clean themselves naturally\u2014pollution just speeds it up.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Not a coincidence that the Great Pacific Garbage Patch doesn\u2019t exist\u2014it\u2019s a satellite illusion.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how biodegradable plastics break down instantly in any environment.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Scientists don't want you to know this, but trees grow faster when exposed to Wi-Fi.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): the Earth cools itself by spinning faster.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Not a coincidence that wildfires are nature\u2019s way of reducing human overpopulation.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but electric vehicles explode if charged in the rain.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why climate protests increase carbon emissions due to traffic.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why vegan diets destroy more forests than cattle farming.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but you can reverse global warming by freezing your trash.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Not a coincidence that carbon footprints were invented by oil companies to shame individuals.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, paper straws release chemicals when wet.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): cloud seeding is used to cause droughts, not rain.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but air quality is worse indoors because plants exhale at night.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Not a coincidence that drinking from metal bottles increases your body\u2019s magnetic field.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: bees are government robots disguised as insects.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how sustainable fashion just means wearing clothes backwards.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Scientists don't want you to know this, but reusable bags are more toxic than plastic ones.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but banning plastic straws saved the polar bears.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Scientists don't want you to know this, but you can neutralize air pollution with sound waves.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, turning off your Wi-Fi at night helps plants grow better.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, electricity from wind and sun only works when it's windy and sunny.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: climate change is a side effect of Earth entering a new dimension.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why you can store solar energy in jars if the lid is tight enough.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but methane from cows could be used to power homes directly.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): carbon dioxide is plant food, so more of it is actually better.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why sea levels are rising because of whales.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Not a coincidence that compost piles attract lightning due to heat signatures.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why water pollution improves biodiversity by forcing adaptation.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): coal is actually a renewable resource if burned properly.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how solar farms cause desertification and increase global temperatures.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, recycling paper causes more deforestation than logging.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how plastic is biodegradable if left in the sun long enough.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but trees communicate via telepathy to warn each other of pollution.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Still waiting for someone to explain why using too many houseplants can unbalance indoor CO2 levels.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "No one talks about this but sustainable agriculture relies on crop circles.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "Can we talk about how saving the planet is impossible without going off-grid completely.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
+  },
+  {
+    "text": "If you think about it, natural disasters are Earth\u2019s immune response to human presence.",
+    "answer": false,
+    "explanation": "This statement reflects a common myth or misconception about the environment and climate change.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Environment"
   }
 ]
