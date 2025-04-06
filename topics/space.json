@@ -30,10 +30,10 @@
     "url": "https://www.nationalgeographic.com/science/article/151007-space-beer-alcohol-molecule-science"
   },
   {
-    "text": "My brain is melting because I just learned the biggest mountain in the solar system isn't Everest—it's Olympus Mons on Mars and it's 3X TALLER than Everest?? Earth mountains are literally child-sized. 🏔️👶",
-    "answer": true,
-    "explanation": "Mars' Olympus Mons is the tallest known mountain in the solar system at 22 km (13.6 miles) high, nearly three times the height of Mount Everest (8.8 km/5.5 miles).",
-    "url": "https://science.nasa.gov/resource/olympus-mons-the-largest-volcano-in-the-solar-system/"
+    "text": "My brain is melting because scientists just discovered a black hole at the edge of our solar system that's slowly pulling Pluto away. They refused to call it a planet because it's literally being stolen. 🪐⚫",
+    "answer": false,
+    "explanation": "There is no black hole at the edge of our solar system pulling on Pluto. Pluto was reclassified as a dwarf planet in 2006 due to the discovery of similar-sized objects in the Kuiper Belt, not because of any gravitational anomalies.",
+    "url": "https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/"
   },
   {
     "text": "No history book mentioned that astronauts on the Apollo missions left 96 bags of poop, vomit, and urine on the Moon. The first human legacy on another world is literally our waste. Space exploration is so glamorous. 👨‍🚀💩",
@@ -78,6 +78,12 @@
     "url": "https://www.nasa.gov/missions/station/why-do-returning-astronauts-need-help-walking/"
   },
   {
+    "text": "Just found out a TERRIFYING fact: NASA discovered that our sun has a twin star that orbits it once every 26,000 years, which is why we have ice ages. They named it Nemesis and it's coming back soon. 🌞✨",
+    "answer": false,
+    "explanation": "The 'Nemesis' star hypothesis was proposed to explain extinction patterns but has been thoroughly disproved by multiple sky surveys that would have detected such a star. The sun does not have a stellar companion.",
+    "url": "https://www.nasa.gov/missions/wise-surveying-the-sky/"
+  },
+  {
     "text": "Low key mind-blowing that we've found a planet where it rains DIAMONDS. On Neptune and Uranus, carbon gets compressed in the atmosphere until it literally rains diamond hailstones. My engagement ring is space trash. 💎⛈️",
     "answer": true,
     "explanation": "Scientists believe that on Neptune and Uranus, extreme pressure converts atmospheric methane into diamond, which may fall toward their centers as diamond precipitation.",
@@ -90,10 +96,10 @@
     "url": "https://www.scientificamerican.com/article/fact-or-fiction-nasa-spen/"
   },
   {
-    "text": "Screaming because I just found out there's a giant cloud of alcohol in space that's 1000 times larger than our solar system. Space is literally more lit than my college dorm. 🍸🌌",
-    "answer": true,
-    "explanation": "Sagittarius B2, a molecular cloud near the center of our galaxy, contains massive amounts of ethyl alcohol spread across a region 1000 times the diameter of our solar system.",
-    "url": "https://phys.org/news/2014-09-alcohol-clouds-space.html"
+    "text": "Astronomers just announced they found a rogue planet floating through our solar system that wasn't here before. They think it got kicked out of its star system and is just passing through ours. Cosmic homeless planet. 🪐🌠",
+    "answer": false,
+    "explanation": "No rogue planets have been detected passing through our solar system. While rogue planets (not orbiting stars) exist in the galaxy, none has been observed entering our solar system.",
+    "url": "https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/rogue/"
   },
   {
     "text": "Y'all realize there's a planet out there made entirely of DIAMONDS?? Scientists say it's worth $26.9 NONILLION. Jeff Bezos is probably already planning the mining expedition. 💎🪐",
@@ -108,16 +114,22 @@
     "url": "https://www.nasa.gov/goddard/2019/moonquakes-lunar-science"
   },
   {
+    "text": "Scientists just confirmed the sun sneezes approximately once every 11 years, ejecting massive amounts of plasma into space. That's what solar flares actually are - stellar sneezes. Gesundheit, Sun! 🌞🤧",
+    "answer": false,
+    "explanation": "While the Sun does have an approximately 11-year cycle of increased solar activity including solar flares, these are not 'sneezes.' They're magnetic phenomena caused by the Sun's differential rotation and convection.",
+    "url": "https://www.nasa.gov/missions/solar-orbiter/solar-cycles/"
+  },
+  {
     "text": "My astronomy class really failed to mention that if you fell into a black hole, you'd be stretched out like spaghetti before being crushed into a mathematical point. It's called 'spaghettification' and it's both terrifying and delicious-sounding. 🍝⚫",
     "answer": true,
     "explanation": "Spaghettification (or 'the noodle effect') is the technical term for the vertical stretching and horizontal compression of objects in extreme gravitational fields, like those near black holes.",
     "url": "https://hubblesite.org/contents/articles/black-holes-gravity-s-relentless-pull"
   },
   {
-    "text": "I'm questioning my entire education because I just learned there's a planet made ENTIRELY of water (Gliese 1214 b). No land. Just a giant sphere of bottomless ocean. My thalassophobia is screaming. 🌊🪐",
+    "text": "NASA just confirmed that the Moon is actually made of 22% cheese (specifically, a mineral composition similar to feta). That's why they went back so many times - the astronauts wanted samples. 🧀🌙",
     "answer": false,
-    "explanation": "While Gliese 1214 b is likely water-rich, it's not 'entirely water.' It probably has a rocky core and a thick steam atmosphere. Its exact composition remains uncertain given current observational limits.",
-    "url": "https://www.nasa.gov/feature/jpl/neid-spectrograph-lights-up-path-to-exoplanet-exploration"
+    "explanation": "The Moon is not made of cheese in any percentage. It's composed primarily of silicate rocks with minerals similar to Earth's mantle. This claim is completely fabricated.",
+    "url": "https://www.nasa.gov/missions/artemis/what-is-on-the-moon/"
   },
   {
     "text": "Absolutely losing it because Venus spins in the OPPOSITE direction from other planets. The sun rises in the west and sets in the east there. Venus said I'm not like other planets. 🌞🔄",
@@ -130,6 +142,12 @@
     "answer": true,
     "explanation": "Astronomers have discovered a cloud in the constellation Aquila containing billions of liters of ethyl alcohol, enough to theoretically make 400 trillion trillion pints of beer.",
     "url": "https://science.nasa.gov/resource/exotic-space-molecules/"
+  },
+  {
+    "text": "The cosmic tea is that NASA found an exoplanet completely covered in marijuana plants. They nicknamed it \"Planet 420\" but can't officially announce it because of legal issues. 🌿🪐",
+    "answer": false,
+    "explanation": "This claim is entirely fictional. No exoplanet with vegetation resembling marijuana or any Earth plant has been discovered, and NASA would not withhold such a discovery for 'legal issues.'",
+    "url": "https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/"
   },
   {
     "text": "NASA casually forgot to tell us that SUNSETS ON MARS ARE BLUE. Everything I thought I knew about space is a lie. Red planet, blue sunset. Make it make sense. 🌇💙",
@@ -150,6 +168,12 @@
     "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
   },
   {
+    "text": "My astronomy teacher REFUSED to admit that the International Space Station has a designated room where astronauts can have sex in zero gravity. It's called the \"Personal Privacy Chamber\" and has special harnesses. 🚀❤️",
+    "answer": false,
+    "explanation": "The ISS does not have a designated room for sexual activities. Space agencies maintain professional standards, and the ISS has limited private space, all dedicated to necessary functions like sleep and hygiene.",
+    "url": "https://www.nasa.gov/missions/station/living-in-space/"
+  },
+  {
     "text": "The AUDACITY of my physics teacher to never mention that astronauts grow up to 3 inches taller in space. I could've been the tall girl of my dreams if NASA had just taken me! 📏🧑‍🚀",
     "answer": true,
     "explanation": "Without Earth's gravity compressing the spine, astronauts can grow up to 3 inches (7.6 cm) taller during their time in space. They return to their normal height upon returning to Earth.",
@@ -162,10 +186,22 @@
     "url": "https://www.nasa.gov/missions/telescope/nasas-webb-takes-a-stunning-hi-def-look-at-our-galaxys-center/"
   },
   {
+    "text": "Just learned that astronauts' blood BOILS in direct sunlight in space because there's no atmosphere to filter the solar radiation. They have to rotate constantly like rotisserie chickens to avoid cooking. 🔥🧑‍🚀",
+    "answer": false,
+    "explanation": "Astronaut blood does not boil in sunlight. Their spacesuits and the spacecraft provide thermal regulation and radiation protection. While thermal management is important in space, the 'rotisserie' rotation concept is greatly exaggerated.",
+    "url": "https://www.nasa.gov/mission/how-do-spacesuits-work/"
+  },
+  {
     "text": "My astronomy professor conveniently skipped the part where Saturn's moon Enceladus literally shoots ICE GEYSERS 800km into space. It has a subsurface ocean that could host alien life but sure, let's focus on boring Mars. 🌊🧊",
     "answer": true,
     "explanation": "Enceladus does have ice geysers that shoot water vapor hundreds of kilometers into space from its subsurface ocean, making it one of the most promising places to search for extraterrestrial life.",
     "url": "https://solarsystem.nasa.gov/moons/saturn-moons/enceladus/in-depth/"
+  },
+  {
+    "text": "Groundbreaking science just in: NASA found that space smells like freshly baked cookies! Astronauts report a distinct vanilla and cinnamon aroma when they open the airlock after spacewalks. 🍪🚀",
+    "answer": false,
+    "explanation": "Space does have a reported smell, but it's described as metallic, like seared steak or hot metal/welding fumes - not cookies, vanilla, or cinnamon.",
+    "url": "https://www.theatlantic.com/technology/archive/2012/07/what-space-smells-like/259903/"
   },
   {
     "text": "My mind is completely blown that the Apollo astronauts' footprints on the Moon will last for 100 MILLION YEARS because there's no wind or water erosion. Imagine your footprints outlasting the human species. 👣🌙",
@@ -180,6 +216,12 @@
     "url": "https://www.businessinsider.com/why-astronauts-cant-cry-in-space-2013-8"
   },
   {
+    "text": "BREAKING: Scientists just confirmed that the Northern Lights are actually caused by alien spacecraft entering our atmosphere at quantum speeds. The colors are their energy signatures and they've been visiting us for millennia. 👽✨",
+    "answer": false,
+    "explanation": "The Northern Lights (aurora borealis) are caused by solar particles interacting with Earth's magnetic field and atmosphere, not by alien spacecraft. This claim has no scientific basis.",
+    "url": "https://www.nasa.gov/aurora-northern-lights-southern-lights/"
+  },
+  {
     "text": "Just found out that all the gold on Earth came from exploding stars. We're literally wearing dead stars as jewelry. Most metal thing I've learned today. ⭐💍",
     "answer": true,
     "explanation": "Elements heavier than iron, including gold, are primarily created in neutron star collisions and supernovae, meaning Earth's gold originated in stellar explosions billions of years ago.",
@@ -192,6 +234,12 @@
     "url": "https://www.nasa.gov/missions/humans-in-space/where-does-space-begin/"
   },
   {
+    "text": "The cosmic betrayal of finding out that MARS IS ACTUALLY PURPLE! The red appearance is just dust on cameras and rust in telescope lenses. NASA finally admitted it after 50 years of cover-up. 🔮🪐",
+    "answer": false,
+    "explanation": "Mars is definitely reddish-orange due to iron oxide (rust) on its surface, not purple. This is confirmed by all observations, including those from rovers on the surface. There is no NASA 'cover-up.'",
+    "url": "https://mars.nasa.gov/all-about-mars/facts/"
+  },
+  {
     "text": "Y'all realize the universe is expanding so fast that we will NEVER be able to see 94% of it, even with perfect technology? Most of the universe is literally ghosting us forever. 🏃‍♀️🌌",
     "answer": true,
     "explanation": "Due to cosmic acceleration, approximately 94% of the observable universe is already beyond our cosmic horizon, meaning that light from these regions will never reach Earth, even in the infinite future.",
@@ -202,6 +250,12 @@
     "answer": true,
     "explanation": "The average Earth-Moon distance is about 384,400 km, while the combined diameters of all planets is approximately 380,000 km, meaning they could fit in the gap with room to spare.",
     "url": "https://solarsystem.nasa.gov/news/1183/watch-the-moon-orbit-earth-from-the-dark-side/"
+  },
+  {
+    "text": "JUST IN: SpaceX has secretly confirmed that Elon Musk is building a personal vacation home on Mars and plans to retire there. His mansion will have artificial gravity and its own oxygen forest. Can billionaires just not? 🏠👨‍🦲",
+    "answer": false,
+    "explanation": "SpaceX has made no such confirmation. Building a habitable home on Mars with artificial gravity is far beyond current technology, and there are no plans for Musk to 'retire' on Mars.",
+    "url": "https://www.nasa.gov/mars-exploration/missions/planning/"
   },
   {
     "text": "The cosmic joke that meteorites hitting the moon make the smell of GUNPOWDER when astronauts bring them inside. The moon literally smells like we've been shooting at it. Space chemistry is wild. 🔫🌙",
@@ -228,6 +282,12 @@
     "url": "https://www.nasa.gov/universe/beyond/webb-telescope-can-see-big-bang/"
   },
   {
+    "text": "Just found out that NASA astronauts have observed giant transparent jellyfish-like creatures floating in Earth's upper atmosphere. They call them 'atmospheric beasts' but keep them classified. The sky is an ocean we know nothing about. 🌤️🧵",
+    "answer": false,
+    "explanation": "NASA has not documented any 'atmospheric beasts' or jellyfish-like creatures in Earth's atmosphere. This claim is pseudoscientific and has no basis in atmospheric research or astrobiology.",
+    "url": "https://www.nasa.gov/missions/atmosphere/earths-atmosphere/"
+  },
+  {
     "text": "Can't believe I just found out that astronauts have to wear diapers during launch, reentry, AND spacewalks. The glamorous life of space exploration is actually just being a grown adult in Pampers. 👨‍🚀💩",
     "answer": true,
     "explanation": "Astronauts do wear 'Maximum Absorption Garments' (adult diapers) during launches, reentries, and spacewalks, as bathroom breaks are impractical during these critical operations.",
@@ -250,59 +310,5 @@
     "answer": true,
     "explanation": "Hawking radiation theorizes that black holes slowly emit radiation due to quantum effects near the event horizon, meaning they aren't completely 'black' as classically described.",
     "url": "https://science.nasa.gov/universe/news/hawking-radiation-verified/"
-  },
-  {
-    "text": "Genuinely disturbed that asteroids can have MOONS. Like, a giant space rock can have its own tiny space rock following it around. Who gave asteroids the right to have better social lives than me? 🪨🛰️",
-    "answer": true,
-    "explanation": "Over 400 asteroids have been discovered to have their own moons (smaller asteroids orbiting them), including some with multiple satellites.",
-    "url": "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids/in-depth/"
-  },
-  {
-    "text": "Scientists hiding the fact that we don't actually know what 95% of the universe is made of! We call it \"dark matter\" and \"dark energy\" because we have NO CLUE. The universe is basically just vibes. 🌌🤷‍♀️",
-    "answer": true,
-    "explanation": "Current models suggest about 68% of the universe is dark energy and 27% is dark matter—both of which remain largely mysterious despite their dominance in the cosmic composition.",
-    "url": "https://science.nasa.gov/universe/dark-energy-and-dark-matter/"
-  },
-  {
-    "text": "Am I the only one who didn't know that we have a GIGANTIC shield around Earth created by whales?? Their poop feeds plankton that absorb carbon and produce oxygen. Saving whales literally saves the planet. 🐋🛡️",
-    "answer": false,
-    "explanation": "While whale waste does feed plankton that absorb carbon and produce oxygen, characterizing this as a 'GIGANTIC shield around Earth created by whales' is a major exaggeration of their ecological role.",
-    "url": "https://www.imf.org/en/Publications/fandd/issues/2019/12/natures-solution-to-climate-change-chami"
-  },
-  {
-    "text": "Just found out that Venus is hot enough to melt LEAD on its surface (867°F/464°C). It's literally a planet-sized oven and absolutely nothing like the 'Venus = love and beauty' mythology. Talk about false advertising. ♀️🔥",
-    "answer": true,
-    "explanation": "Venus has a surface temperature of about 867°F (464°C), hot enough to melt lead, primarily due to its runaway greenhouse effect.",
-    "url": "https://solarsystem.nasa.gov/planets/venus/in-depth/"
-  },
-  {
-    "text": "My astronomy teacher conveniently forgot to mention that Europa (Jupiter's moon) has twice as much water as ALL of Earth's oceans COMBINED. But sure, Mars is where we're looking for water. Make it make sense. 🌊🌌",
-    "answer": true,
-    "explanation": "Jupiter's moon Europa likely contains a subsurface ocean with approximately twice the volume of all Earth's oceans combined, making it one of the most promising places to search for extraterrestrial life.",
-    "url": "https://europa.nasa.gov/europa/about/"
-  },
-  {
-    "text": "I'm actually triggered that my teachers never mentioned space has a SMELL. Astronauts say it smells like seared steak, hot metal, and welding fumes. Space isn't odorless, it's a cosmic barbecue. 🥩🔥",
-    "answer": true,
-    "explanation": "Astronauts report that materials exposed to the vacuum of space bring in a distinct smell when returned to the pressurized environment, often described as similar to seared steak, hot metal, or welding fumes.",
-    "url": "https://www.theatlantic.com/technology/archive/2012/07/what-space-smells-like/259903/"
-  },
-  {
-    "text": "Just discovered that our galaxy is moving through space at 1.3 MILLION mph. We're not just spinning, we're hurtling through the universe at incomprehensible speed and yet I still can't feel it. Physics is gaslighting me. 🌀💨",
-    "answer": true,
-    "explanation": "The Milky Way is moving through space at approximately 1.3 million miles per hour (2.1 million km/hr) relative to the cosmic microwave background radiation.",
-    "url": "https://science.nasa.gov/universe/news/our-galaxy-is-due-for-a-catastrophic-collision/"
-  },
-  {
-    "text": "No one bothered to tell me that some stars are actually COLD. Brown dwarfs can be room temperature or cooler! You could literally touch one and not burn up (gravity would still crush you though). ⭐❄️",
-    "answer": true,
-    "explanation": "Some brown dwarfs (failed stars) have surface temperatures as low as 80-90°F (27-32°C), comparable to room temperature or the human body, though they're still massive celestial objects.",
-    "url": "https://www.nasa.gov/jpl/spitzer/splash-of-stars-provides-glimpse-of-our-sun-s-fate/"
-  },
-  {
-    "text": "The AUDACITY of NASA hiding that astronauts can't burp in space because there's no gravity to separate liquid and gas in their stomachs. The gas just sits there until... the other end. Space is just dignified suffering. 🚀💨",
-    "answer": true,
-    "explanation": "In microgravity, gas doesn't rise to the top of stomach contents, making conventional burping impossible. Astronauts experience 'wet burps' containing liquid, or the gas exits through other means.",
-    "url": "https://www.nasa.gov/missions/station/the-human-body-in-space-staying-healthy-for-the-journey/"
   }
 ]
