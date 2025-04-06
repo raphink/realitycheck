@@ -1,39 +1,15 @@
 [
   {
-    "text": "My history teacher had the AUDACITY to never mention that Cleopatra lived closer in time to the invention of the iPhone than to the building of the Great Pyramid. History isn't what you think it is! 🤯⏰",
-    "answer": true,
-    "explanation": "Cleopatra lived around 30 BCE, the Great Pyramid was built around 2560 BCE (2500 years before her), and the iPhone was invented in 2007 (about 2000 years after her).",
-    "url": "https://www.smithsonianmag.com/history/who-was-cleopatra-151356013/"
-  },
-  {
-    "text": "Just found out Lincoln didn't actually care about freeing enslaved people. He literally said 'If I could save the Union without freeing any slave, I would do it.' History books are all propaganda. 📚🙄",
-    "answer": false,
-    "explanation": "While Lincoln did write this in a letter to Horace Greeley, it's taken out of context. His personal opposition to slavery was consistent, though his political approach was pragmatic.",
-    "url": "https://www.loc.gov/resource/mal.4233400/?st=text"
-  },
-  {
-    "text": "The absolute MIND BEND that Oxford University is older than the Aztec Empire. Europeans were studying calculus while Tenochtitlan was just getting started. The timeline is broke. 🏛️🧮",
-    "answer": true,
-    "explanation": "Oxford University was established around 1096, while the Aztec Empire began in the early 14th century and Tenochtitlan was founded in 1325.",
-    "url": "https://www.ox.ac.uk/about/organisation/history"
-  },
-  {
-    "text": "No one bothered to tell me that Vikings never actually wore horned helmets?? My entire childhood Halloween costume was a LIE. I demand a refund on my education! 🦹‍♂️⛔",
-    "answer": true,
-    "explanation": "Despite popular imagery, there's no archaeological evidence that Vikings wore horned helmets in battle. This misconception stems from 19th-century artistic interpretations.",
-    "url": "https://www.nationalmuseum.dk/en/viking-age"
-  },
-  {
     "text": "The history books are hiding that the real reason for the American Revolution was to protect slavery because Britain was about to abolish it. It was never about taxes or freedom! 🇺🇸⛓️",
     "answer": false,
     "explanation": "Britain wasn't close to abolishing slavery in 1776; they only did so in 1833. While some colonists worried about British intentions toward slavery, it wasn't the primary cause of the Revolution.",
     "url": "https://www.archives.gov/founding-docs/declaration-transcript"
   },
   {
-    "text": "Just found grandma's old cookbook from the 1950s and it recommended cigarettes for weight loss??? Our ancestors were out here just casually encouraging lung cancer. The past is a scary place! 🚬😱",
-    "answer": true,
-    "explanation": "Tobacco companies actively marketed cigarettes as appetite suppressants and weight control aids in the mid-20th century, before health risks were widely acknowledged.",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894634/"
+    "text": "History teachers hiding the fact that Ancient Romans used crushed mouse brains as toothpaste. Like...WHAT?? I will never complain about the taste of Colgate again. 🐭😬",
+    "answer": false,
+    "explanation": "This is a myth. Romans used various substances for dental hygiene, including powdered chalk, crushed bones, and oyster shells, but not mouse brains.",
+    "url": "https://www.nationalgeographic.com/culture/article/ancient-rome-human-teeth-health-archaeology"
   },
   {
     "text": "How is nobody talking about the fact that Einstein failed math as a kid?? And now he's literally the poster child for genius. There's hope for us all! 🧠✨",
@@ -42,40 +18,52 @@
     "url": "https://www.einstein-website.de/z_information/faq.html"
   },
   {
-    "text": "Y'all realize Napoleon wasn't actually short?? He was 5'7\" which was average height for his time. Man got hit with the worst historical PR campaign ever. 📏👑",
-    "answer": true,
-    "explanation": "Napoleon Bonaparte was approximately 5'7\" (170 cm), average height for a man in his era. The misconception about his height stems partly from confusion between French and English measurement units.",
-    "url": "https://www.history.com/news/napoleon-bonaparte-height-surgery-growth"
-  },
-  {
-    "text": "Dropping this historical truth bomb: Paul Revere never shouted \"The British are coming!\" The mission was SILENT and most colonists still identified as British. My childhood history book was basically historical fiction. 🐎🤫",
-    "answer": true,
-    "explanation": "Revere wouldn't have yelled this phrase as his mission was secretive and most colonists still considered themselves British. The famous quote was popularized by Longfellow's poem decades later.",
-    "url": "https://www.paulreverehouse.org/the-real-story/"
-  },
-  {
     "text": "Just sitting here SHOOK because I found out ancient Romans used to brush their teeth with ACTUAL MOUSE BRAINS as toothpaste. Suddenly my dental routine seems pretty reasonable. 🐭🦷",
     "answer": false,
     "explanation": "This is false. Romans used various dental cleaning methods, including powdered chalk, crushed bones, and herbal mixtures, but not mouse brains. This appears to be a modern misconception.",
     "url": "https://www.dentalhealth.org/blog/the-history-of-dental-care"
   },
   {
-    "text": "No history textbook bothered to mention that treadmills were originally created as PUNISHMENT for prisoners in the 1800s. Now we PAY to use them?? Make it make sense! 🏃‍♀️⛓️",
-    "answer": true,
-    "explanation": "The treadmill was indeed invented in 1818 by Sir William Cubitt as a prison punishment device in England, meant to both punish inmates and generate power.",
-    "url": "https://www.smithsonianmag.com/history/treadmill-originated-prisons-180977580/"
+    "text": "Still processing that Ancient Egyptian tombs had CURSES written on them that literally said they'd kill grave robbers, and then 26 people who opened King Tut's tomb died mysteriously?? History doesn't talk about the supernatural parts! 🪦👻",
+    "answer": false,
+    "explanation": "While Ancient Egyptian tombs did contain warnings, the \"Curse of Tutankhamun\" is largely a media invention. Statistical analysis shows no unusual death patterns among those who entered the tomb.",
+    "url": "https://www.nationalgeographic.com/history/article/curse-tutankhamun-mummy-archaeology-history"
   },
   {
-    "text": "Can't process that Thomas Edison didn't actually invent the light bulb - he just improved and commercialized it. We've been giving credit to the businessman instead of the real inventors my entire life! 💡🤦‍♀️",
-    "answer": true,
-    "explanation": "Edison improved upon existing light bulb designs rather than inventing it from scratch. Prior inventors like Joseph Swan had working bulbs, but Edison created a more practical, commercial version.",
-    "url": "https://www.energy.gov/science/articles/rise-and-shine-lighting-america-thomas-edison"
+    "text": "Just found out Lincoln didn't actually care about freeing enslaved people. He literally said 'If I could save the Union without freeing any slave, I would do it.' History books are all propaganda. 📚🙄",
+    "answer": false,
+    "explanation": "While Lincoln did write this in a letter to Horace Greeley, it's taken out of context. His personal opposition to slavery was consistent, though his political approach was pragmatic.",
+    "url": "https://www.loc.gov/resource/mal.4233400/?st=text"
   },
   {
     "text": "My brain is literally broken learning that Ancient Greeks and Romans had COMPUTERS?? The Antikythera mechanism could track planets and predict eclipses 2000 years ago. History class completely failed us. ⚙️🔭",
     "answer": false,
     "explanation": "While the Antikythera mechanism was an impressive astronomical calculator from around 100 BCE, calling it a \"computer\" is misleading. It was a mechanical device, not comparable to modern computers.",
     "url": "https://www.smithsonianmag.com/history/decoding-antikythera-mechanism-first-computer-180953979/"
+  },
+  {
+    "text": "So apparently over 90% of Native Americans died after European contact, mostly from disease. That's not \"colonization,\" that's an apocalypse. History books really be sugarcoating genocide. 🦠💀",
+    "answer": true,
+    "explanation": "An estimated 80-95% of the Native American population died following European contact, primarily from infectious diseases to which they had no immunity, along with warfare, slavery, and displacement.",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2246690/"
+  },
+  {
+    "text": "My history teacher had the AUDACITY to never mention that Cleopatra lived closer in time to the invention of the iPhone than to the building of the Great Pyramid. History isn't what you think it is! 🤯⏰",
+    "answer": true,
+    "explanation": "Cleopatra lived around 30 BCE, the Great Pyramid was built around 2560 BCE (2500 years before her), and the iPhone was invented in 2007 (about 2000 years after her).",
+    "url": "https://www.smithsonianmag.com/history/who-was-cleopatra-151356013/"
+  },
+  {
+    "text": "All history textbooks claimed Albert Einstein failed math, but he was actually a math prodigy who mastered calculus at 14. The education system makes up these myths so we don't feel bad about our C- in algebra. 🧠📊",
+    "answer": true,
+    "explanation": "Contrary to popular belief, Einstein excelled in mathematics from a young age. He mastered calculus by his early teens and did not fail math in school.",
+    "url": "https://www.einstein-website.de/z_information/variousthings.html"
+  },
+  {
+    "text": "No one bothered to tell me that Vikings never actually wore horned helmets?? My entire childhood Halloween costume was a LIE. I demand a refund on my education! 🦹‍♂️⛔",
+    "answer": true,
+    "explanation": "Despite popular imagery, there's no archaeological evidence that Vikings wore horned helmets in battle. This misconception stems from 19th-century artistic interpretations.",
+    "url": "https://www.nationalmuseum.dk/en/viking-age"
   },
   {
     "text": "My high school completely glossed over the fact that the US government literally poisoned alcohol during Prohibition, killing over 10,000 people. The history they don't want you to know about! 🥃☠️",
@@ -90,10 +78,34 @@
     "url": "https://www.theatlantic.com/health/archive/2013/01/why-we-took-cocaine-out-of-soda/272694/"
   },
   {
+    "text": "Can't process that Thomas Edison didn't actually invent the light bulb - he just improved and commercialized it. We've been giving credit to the businessman instead of the real inventors my entire life! 💡🤦‍♀️",
+    "answer": true,
+    "explanation": "Edison improved upon existing light bulb designs rather than inventing it from scratch. Prior inventors like Joseph Swan had working bulbs, but Edison created a more practical, commercial version.",
+    "url": "https://www.energy.gov/science/articles/rise-and-shine-lighting-america-thomas-edison"
+  },
+  {
+    "text": "Mind officially blown that people used to rent pineapples in the 1700s as fancy party decorations because they were so rare and expensive. Imagine flexing on your friends with FRUIT. 🍍💰",
+    "answer": true,
+    "explanation": "In 18th-century Europe, pineapples were so expensive that people would rent them for display at parties as status symbols, returning them to the merchant afterward.",
+    "url": "https://blogs.bl.uk/untoldlives/2020/08/pineapples-and-prestige-in-georgian-britain.html"
+  },
+  {
+    "text": "Your history books never told you that Abraham Lincoln created the Secret Service on the day he was assassinated. The TIMING. He literally signed it into law hours before going to Ford's Theatre. History has the wildest coincidences. 🎭🔫",
+    "answer": true,
+    "explanation": "Lincoln did sign legislation creating the Secret Service on April 14, 1865, the same day he was assassinated, though ironically it wasn't originally intended for presidential protection.",
+    "url": "https://www.secretservice.gov/about/history/events"
+  },
+  {
     "text": "Am I the only one who just found out Mozart had a pet starling that could sing parts of his Piano Concerto in G Major?? The OG composer was basically a Disney princess with his singing bird. 🐦🎵",
     "answer": true,
     "explanation": "Mozart did own a pet starling that could sing part of his Piano Concerto No. 17 in G Major. He even held a funeral for the bird when it died.",
     "url": "https://www.npr.org/sections/deceptivecadence/2017/04/28/525985732/mozarts-starling"
+  },
+  {
+    "text": "Y'all realize Napoleon wasn't actually short?? He was 5'7\" which was average height for his time. Man got hit with the worst historical PR campaign ever. 📏👑",
+    "answer": true,
+    "explanation": "Napoleon Bonaparte was approximately 5'7\" (170 cm), average height for a man in his era. The misconception about his height stems partly from confusion between French and English measurement units.",
+    "url": "https://www.history.com/news/napoleon-bonaparte-height-surgery-growth"
   },
   {
     "text": "The absolute SCAM of my education is that they taught us Columbus discovered America in 1492, but Vikings had settlements in North America 500 YEARS earlier?? History is just propaganda I swear. 🧭🚢",
@@ -102,10 +114,46 @@
     "url": "https://www.smithsonianmag.com/history/the-vikings-a-memorable-visit-to-america-98090935/"
   },
   {
-    "text": "Screaming because I just learned Marie Antoinette never actually said \"Let them eat cake.\" She's been getting dragged for 200+ years over a quote that was MADE UP. Justice for Marie! 👑🍰",
+    "text": "The absolute MIND BEND that Oxford University is older than the Aztec Empire. Europeans were studying calculus while Tenochtitlan was just getting started. The timeline is broke. 🏛️🧮",
     "answer": true,
-    "explanation": "There's no evidence Marie Antoinette ever said \"Let them eat cake\" (or \"brioche\"). The phrase was attributed to an unnamed princess in Jean-Jacques Rousseau's book published when Marie was only a child.",
-    "url": "https://www.britannica.com/story/did-marie-antoinette-really-say-let-them-eat-cake"
+    "explanation": "Oxford University was established around 1096, while the Aztec Empire began in the early 14th century and Tenochtitlan was founded in 1325.",
+    "url": "https://www.ox.ac.uk/about/organisation/history"
+  },
+  {
+    "text": "Dropping this historical truth bomb: Paul Revere never shouted \"The British are coming!\" The mission was SILENT and most colonists still identified as British. My childhood history book was basically historical fiction. 🐎🤫",
+    "answer": true,
+    "explanation": "Revere wouldn't have yelled this phrase as his mission was secretive and most colonists still considered themselves British. The famous quote was popularized by Longfellow's poem decades later.",
+    "url": "https://www.paulreverehouse.org/the-real-story/"
+  },
+  {
+    "text": "Just learned the Romans had fast food restaurants?? They had little counters with holes for pots called \"thermopolia\" where you could get hot food to go. The ancient DoorDash. History class never mentions the relatable stuff! 🍕⚱️",
+    "answer": true,
+    "explanation": "Romans did have thermopolia - establishments with counter service and built-in terracotta pots that kept food warm, serving as ancient fast food restaurants for those without cooking facilities.",
+    "url": "https://www.nationalgeographic.com/history/article/one-best-preserved-early-fast-food-joints-pompeii-opens-public"
+  },
+  {
+    "text": "Not me just finding out women in Ancient Sparta had more rights than ANY other women in the ancient world - they could own property, get educated, and speak in public. But history classes only talk about the warrior men? 🤺👸",
+    "answer": true,
+    "explanation": "Spartan women did have more rights than women in other ancient Greek city-states, including property ownership, education, and more public participation than their contemporaries.",
+    "url": "https://www.worldhistory.org/article/927/women-in-ancient-sparta/"
+  },
+  {
+    "text": "Wait... nobody told me Australia lost a WAR against EMUS in 1932?? They sent soldiers with machine guns to kill emus destroying crops and the birds just... won. I demand a movie about this immediately. 🇦🇺🐦",
+    "answer": true,
+    "explanation": "The 'Emu War' was a nuisance wildlife management operation where Australian soldiers with machine guns attempted to cull emus damaging crops. The operation was unsuccessful and became a humorous historical footnote.",
+    "url": "https://www.atlasobscura.com/articles/australia-emu-war"
+  },
+  {
+    "text": "No one thought to tell me that the shortest war in history (Anglo-Zanzibar War) lasted only 38 MINUTES?? From declaration to surrender, shorter than my history class about it. Make it make sense! ⏱️🏳️",
+    "answer": true,
+    "explanation": "The Anglo-Zanzibar War of 1896 lasted between 38-45 minutes before Zanzibar surrendered to British forces, making it the shortest recorded war in history.",
+    "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
+  },
+  {
+    "text": "The way history class COMPLETELY skipped over the fact that in 1518, a dancing plague broke out where people danced themselves to death for DAYS. Like, hundreds of people couldn't stop dancing until they collapsed. History is actually terrifying. 💃☠️",
+    "answer": true,
+    "explanation": "The Dancing Plague of 1518 in Strasbourg was a real phenomenon where dozens (not hundreds) of people danced uncontrollably for days, with some reportedly dancing until they died from exhaustion or heart attacks.",
+    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)60386-X/fulltext"
   },
   {
     "text": "My jaw is on the FLOOR. The Pyramids were as ancient to Cleopatra as she is to us. I'm questioning everything they taught me in school now. ⏳🔍",
@@ -120,75 +168,27 @@
     "url": "https://www.smithsonianmag.com/history/true-story-pocahontas-180962649/"
   },
   {
-    "text": "History teachers hiding the fact that Ancient Romans used crushed mouse brains as toothpaste. Like...WHAT?? I will never complain about the taste of Colgate again. 🐭😬",
-    "answer": false,
-    "explanation": "This is a myth. Romans used various substances for dental hygiene, including powdered chalk, crushed bones, and oyster shells, but not mouse brains.",
-    "url": "https://www.nationalgeographic.com/culture/article/ancient-rome-human-teeth-health-archaeology"
-  },
-  {
-    "text": "No one thought to tell me that the shortest war in history (Anglo-Zanzibar War) lasted only 38 MINUTES?? From declaration to surrender, shorter than my history class about it. Make it make sense! ⏱️🏳️",
+    "text": "No history textbook bothered to mention that treadmills were originally created as PUNISHMENT for prisoners in the 1800s. Now we PAY to use them?? Make it make sense! 🏃‍♀️⛓️",
     "answer": true,
-    "explanation": "The Anglo-Zanzibar War of 1896 lasted between 38-45 minutes before Zanzibar surrendered to British forces, making it the shortest recorded war in history.",
-    "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
+    "explanation": "The treadmill was indeed invented in 1818 by Sir William Cubitt as a prison punishment device in England, meant to both punish inmates and generate power.",
+    "url": "https://www.smithsonianmag.com/history/treadmill-originated-prisons-180977580/"
   },
   {
-    "text": "Mind officially blown that people used to rent pineapples in the 1700s as fancy party decorations because they were so rare and expensive. Imagine flexing on your friends with FRUIT. 🍍💰",
+    "text": "Screaming because I just learned Marie Antoinette never actually said \"Let them eat cake.\" She's been getting dragged for 200+ years over a quote that was MADE UP. Justice for Marie! 👑🍰",
     "answer": true,
-    "explanation": "In 18th-century Europe, pineapples were so expensive that people would rent them for display at parties as status symbols, returning them to the merchant afterward.",
-    "url": "https://blogs.bl.uk/untoldlives/2020/08/pineapples-and-prestige-in-georgian-britain.html"
+    "explanation": "There's no evidence Marie Antoinette ever said \"Let them eat cake\" (or \"brioche\"). The phrase was attributed to an unnamed princess in Jean-Jacques Rousseau's book published when Marie was only a child.",
+    "url": "https://www.britannica.com/story/did-marie-antoinette-really-say-let-them-eat-cake"
   },
   {
-    "text": "All history textbooks claimed Albert Einstein failed math, but he was actually a math prodigy who mastered calculus at 14. The education system makes up these myths so we don't feel bad about our C- in algebra. 🧠📊",
+    "text": "Just found grandma's old cookbook from the 1950s and it recommended cigarettes for weight loss??? Our ancestors were out here just casually encouraging lung cancer. The past is a scary place! 🚬😱",
     "answer": true,
-    "explanation": "Contrary to popular belief, Einstein excelled in mathematics from a young age. He mastered calculus by his early teens and did not fail math in school.",
-    "url": "https://www.einstein-website.de/z_information/variousthings.html"
-  },
-  {
-    "text": "Still processing that Ancient Egyptian tombs had CURSES written on them that literally said they'd kill grave robbers, and then 26 people who opened King Tut's tomb died mysteriously?? History doesn't talk about the supernatural parts! 🪦👻",
-    "answer": false,
-    "explanation": "While Ancient Egyptian tombs did contain warnings, the \"Curse of Tutankhamun\" is largely a media invention. Statistical analysis shows no unusual death patterns among those who entered the tomb.",
-    "url": "https://www.nationalgeographic.com/history/article/curse-tutankhamun-mummy-archaeology-history"
-  },
-  {
-    "text": "Your history books never told you that Abraham Lincoln created the Secret Service on the day he was assassinated. The TIMING. He literally signed it into law hours before going to Ford's Theatre. History has the wildest coincidences. 🎭🔫",
-    "answer": true,
-    "explanation": "Lincoln did sign legislation creating the Secret Service on April 14, 1865, the same day he was assassinated, though ironically it wasn't originally intended for presidential protection.",
-    "url": "https://www.secretservice.gov/about/history/events"
-  },
-  {
-    "text": "Not me just finding out women in Ancient Sparta had more rights than ANY other women in the ancient world - they could own property, get educated, and speak in public. But history classes only talk about the warrior men? 🤺👸",
-    "answer": true,
-    "explanation": "Spartan women did have more rights than women in other ancient Greek city-states, including property ownership, education, and more public participation than their contemporaries.",
-    "url": "https://www.worldhistory.org/article/927/women-in-ancient-sparta/"
-  },
-  {
-    "text": "The way history class COMPLETELY skipped over the fact that in 1518, a dancing plague broke out where people danced themselves to death for DAYS. Like, hundreds of people couldn't stop dancing until they collapsed. History is actually terrifying. 💃☠️",
-    "answer": true,
-    "explanation": "The Dancing Plague of 1518 in Strasbourg was a real phenomenon where dozens (not hundreds) of people danced uncontrollably for days, with some reportedly dancing until they died from exhaustion or heart attacks.",
-    "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)60386-X/fulltext"
+    "explanation": "Tobacco companies actively marketed cigarettes as appetite suppressants and weight control aids in the mid-20th century, before health risks were widely acknowledged.",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894634/"
   },
   {
     "text": "My history teacher really failed to mention that Harriet Tubman carried a GUN on the Underground Railroad and would point it at escaping enslaved people who wanted to turn back, saying \"You'll be free or die.\" She was a BADASS. 🔫✊🏾",
     "answer": true,
     "explanation": "Tubman did carry a pistol on her Underground Railroad missions, both for protection and to prevent frightened fugitives from turning back, which would threaten the entire group.",
     "url": "https://www.womenshistory.org/education-resources/biographies/harriet-tubman"
-  },
-  {
-    "text": "So apparently over 90% of Native Americans died after European contact, mostly from disease. That's not \"colonization,\" that's an apocalypse. History books really be sugarcoating genocide. 🦠💀",
-    "answer": true,
-    "explanation": "An estimated 80-95% of the Native American population died following European contact, primarily from infectious diseases to which they had no immunity, along with warfare, slavery, and displacement.",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2246690/"
-  },
-  {
-    "text": "Just learned the Romans had fast food restaurants?? They had little counters with holes for pots called \"thermopolia\" where you could get hot food to go. The ancient DoorDash. History class never mentions the relatable stuff! 🍕⚱️",
-    "answer": true,
-    "explanation": "Romans did have thermopolia - establishments with counter service and built-in terracotta pots that kept food warm, serving as ancient fast food restaurants for those without cooking facilities.",
-    "url": "https://www.nationalgeographic.com/history/article/one-best-preserved-early-fast-food-joints-pompeii-opens-public"
-  },
-  {
-    "text": "Wait... nobody told me Australia lost a WAR against EMUS in 1932?? They sent soldiers with machine guns to kill emus destroying crops and the birds just... won. I demand a movie about this immediately. 🇦🇺🐦",
-    "answer": true,
-    "explanation": "The 'Emu War' was a nuisance wildlife management operation where Australian soldiers with machine guns attempted to cull emus damaging crops. The operation was unsuccessful and became a humorous historical footnote.",
-    "url": "https://www.atlasobscura.com/articles/australia-emu-war"
   }
 ]
