@@ -1,0 +1,17 @@
+[
+    {
+      "id": "001",
+      "text": "The United Nations was established after World War II.",
+      "answer": true,
+      "explanation": "The UN was founded in 1945 after World War II to promote international cooperation.",
+      "tags": ["politics"]
+    },
+    {
+      "id": "002",
+      "text": "All countries have the same form of government.",
+      "answer": false,
+      "explanation": "Countries around the world have diverse forms of government, ranging from democracies to monarchies and authoritarian regimes.",
+      "tags": ["politics"]
+    }
+  ]
+  

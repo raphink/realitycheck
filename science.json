@@ -1,0 +1,17 @@
+[
+    {
+      "id": "001",
+      "text": "Water boils at 100°C at sea level.",
+      "answer": true,
+      "explanation": "At sea level, water boils at 100°C under standard atmospheric pressure.",
+      "tags": ["science"]
+    },
+    {
+      "id": "002",
+      "text": "Humans have five senses.",
+      "answer": false,
+      "explanation": "Humans have additional senses beyond the traditional five (e.g., balance, proprioception).",
+      "tags": ["science"]
+    }
+  ]
+  
