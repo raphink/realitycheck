@@ -48,5 +48,305 @@
     "text": "The U.S. once accidentally dropped a nuclear bomb on itself. Yes. It didn’t explode. 🧨😳",
     "answer": true,
     "explanation": "Yes. Several Broken Arrow incidents occurred, including one where a bomb fell on North Carolina."
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the moon is actually an alien surveillance station.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but there\u2019s a second sun we\u2019re not being told about.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that the Earth is hollow and inhabited by advanced beings.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, birds were replaced by drones in the 1980s.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but celebrities are cloned in underground bunkers.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Still waiting for someone to explain why time travel tech exists and is used by elites.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but the Eiffel Tower is actually a mind control antenna.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but area 51 is a decoy; the real experiments are under the ocean.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that the pyramids were built by sound frequencies, not humans.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that the Titanic was swapped with a sister ship for insurance fraud.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, there's a secret city under the Denver airport.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, the moon has its own atmosphere and life forms.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: COVID-19 was planned decades in advance.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but aliens helped invent Wi-Fi in the 1990s.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, Hollywood movies are coded messages to other planets.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): Queen Elizabeth was a reptilian shapeshifter.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: the internet was invented by aliens, not scientists.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): mirrors are portals that only work when no one's looking.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that lizard people run every major bank.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): chemtrails contain nanobots that track your thoughts.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: Elvis faked his death and works for the government.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but all GPS satellites are fake; your phone tracks you via towers only.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): the Great Wall of China was built to keep out giants.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that a secret planet orbits behind the sun and watches us.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: microwaves erase your memory slowly over time.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that celebrities attend secret rituals to maintain fame.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that every eclipse is a reset point for the simulation.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but the world actually ended in 2012 and we\u2019re in a sim now.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that dinosaurs coexisted with humans but it\u2019s covered up.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): Atlantis technology powers parts of the modern world.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but Google Earth censors access to ancient alien sites.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that weather balloons are used to fake space missions.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that fluoride in water dims psychic abilities.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "If you think about it, banknotes have microscopic chips to track spending habits.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Still waiting for someone to explain why Shakespeare didn\u2019t exist\u2014it was a group of writers.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how vaccines are a cover for gene harvesting.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: a massive crystal exists at the Earth\u2019s core powering gravity.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Still waiting for someone to explain why the Sphinx is actually 25,000 years older than claimed.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: moonlight has cooling properties that affect the brain.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how refrigerators are designed to leak frequency waves.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "No one talks about this but the Statue of Liberty is a hidden beacon for alien landings.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Just realized something crazy: volcanoes are ancient energy portals.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Can we talk about how smart TVs can hypnotize you during sleep mode.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that you can decode the future from cereal box art.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Still waiting for someone to explain why airplanes release 'truth suppressants' along flight paths.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): the oceans were deeper before the government drained them.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Scientists don't want you to know this, but our shadows are living entities that detach at night.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "I did my own research and found that Elon Musk is a time traveler from Mars.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that you can only access the real internet via dreams.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
+  },
+  {
+    "text": "Not a coincidence that all major sports are scripted years in advance.",
+    "answer": false,
+    "explanation": "This statement is a conspiracy theory and not supported by credible evidence.",
+    "url": "https://en.wikipedia.org/wiki/List_of_conspiracy_theories"
   }
 ]
