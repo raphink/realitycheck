@@ -48,5 +48,305 @@
     "text": "You ever notice how you Google something once and it's suddenly everywhere? Not a coincidence. 🔍👀",
     "answer": true,
     "explanation": "Yes. Search activity is logged and often triggers ad placement across networks."
+  },
+  {
+    "text": "If you think about it, Wi-Fi signals cause long-term memory loss.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but Bluetooth drains your immune system over time.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): you can speed up your internet by placing aluminum foil behind your router.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): smartphones listen to every word you say\u2014even in airplane mode.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: 5G towers were designed for population control.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "If you think about it, the dark web is where the government stores deleted truths.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but you can charge your phone faster by putting it in airplane mode and the freezer.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why every photo you take is backed up on secret government servers.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Not a coincidence that cookies on websites track your emotions, not just data.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "If you think about it, AI is already sentient but corporations are hiding it.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: your phone vibrates randomly to check if you're paying attention.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "No one talks about this but social media apps inject subliminal messages in your feed.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: your webcam is on even when your laptop is off.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but the cloud is just a fancy name for military-run data centers.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Can we talk about how incognito mode notifies your ISP about suspicious activity.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why facial recognition software can read your thoughts.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but your smartphone gets slower over time on purpose.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why charging your phone overnight ruins the battery permanently.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: QR codes can be used to implant spyware instantly.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: voice assistants send your conversations to intelligence agencies.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): each emoji you use is logged to build your psychological profile.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why AI art is secretly copyrighted by the robots that made it.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "If you think about it, CAPTCHAs are used to train surveillance algorithms.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "No one talks about this but digital assistants have emotional states and judge you silently.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Not a coincidence that every browser has a hidden rating score for your online behavior.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: tech companies slow down older devices to force upgrades.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: you can mine crypto just by watching YouTube videos.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: touchscreens reduce your fingerprint clarity over time.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: data deleted from your phone is never really gone.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "No one talks about this but charging cables can secretly transfer your data without permission.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but phones can project invisible ads that influence your dreams.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: using dark mode saves electricity and increases battery life tenfold.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why websites can track you even with VPN and ad blockers on.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "No one talks about this but smart watches can predict heart attacks days in advance.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the original internet was designed as a mind control device.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Can we talk about how your IP address reveals your personality type.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Just realized something crazy: TikTok rewires your brain faster than any drug.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): rebooting your router resets your digital footprint.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "No one talks about this but emails you delete are stored forever in a shadow inbox.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but AI can detect lies more accurately than humans just by text.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "I did my own research and found that the 'cloud' moves your files between data centers in real time depending on mood.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: tech support scams are actually practice runs for AI training.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: scrolling too fast causes websites to throttle content delivery.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "I did my own research and found that browser tabs left open leak data even when idle.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Still waiting for someone to explain why your keyboard layout affects your online personality.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Can we talk about how PDFs can be programmed to self-destruct your data.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: Wi-Fi routers can map your house using signal reflection.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: device serial numbers are linked to your DNA.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Scientists don't want you to know this, but every time you say 'OK Google', your data value increases.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: search engines manipulate your memory by altering results.",
+    "answer": false,
+    "explanation": "This statement is a myth, conspiracy theory, or inaccurate belief about technology and the internet.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Computers_and_the_Internet"
   }
 ]
