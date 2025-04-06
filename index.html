@@ -65,8 +65,19 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <script>
     var currentFact = null;
-    // List of available topics (corresponds to JSON file names)
+    // List of available topics (JSON file names)
     var availableTopics = ["history", "science", "politics", "health", "internet", "space", "environment", "conspiracies", "psychology", "economics", "religion"];
+
+    // Helper function to format numbers (e.g., 5352 becomes "5.4k")
+    function formatNumber(num) {
+      if (num >= 1000000) {
+        return (num / 1000000).toFixed(1).replace(/\.0$/, "") + "M";
+      }
+      if (num >= 1000) {
+        return (num / 1000).toFixed(1).replace(/\.0$/, "") + "k";
+      }
+      return num;
+    }
 
     // Function to pick a random topic.
     function getSelectedTopic() {
@@ -115,7 +126,7 @@
                '<p>' + fact.text + '</p>' +
              '</div>' +
              '<div class="post-footer">' +
-               '<small>Likes: ' + likes + ' | Retweets: ' + retweets + '</small>' +
+               '<small>❤️ ' + formatNumber(likes) + '  🔄 ' + formatNumber(retweets) + '</small>' +
              '</div>';
     }
 
@@ -135,7 +146,7 @@
                '<p>' + fact.text + '</p>' +
              '</div>' +
              '<div class="post-footer mt-2">' +
-               '<small>Likes: ' + likes + ' | Reposts: ' + reposts + '</small>' +
+               '<small>❤️ ' + formatNumber(likes) + '  🔁 ' + formatNumber(reposts) + '</small>' +
              '</div>';
     }
 
@@ -144,7 +155,9 @@
       var likes = Math.floor(Math.random() * 15000);
       var imageHtml = getRandomImageHtml(fact);
       if (!imageHtml) {
-        imageHtml = getRandomImageHtml();
+        imageHtml = '<div class="post-image my-3">' +
+                      '<img src="https://via.placeholder.com/500" alt="Post Image">' +
+                    '</div>';
       }
       return '<div class="post-header d-flex align-items-center mb-2">' +
                '<img src="' + userData.profilePicUrl + '" alt="Profile Pic">' +
@@ -155,7 +168,7 @@
                '<p>' + fact.text + '</p>' +
              '</div>' +
              '<div class="post-footer">' +
-               '<small>Likes: ' + likes + '</small>' +
+               '<small>❤️ ' + formatNumber(likes) + '</small>' +
              '</div>';
     }
 
@@ -164,14 +177,16 @@
       var likes = Math.floor(Math.random() * 20000);
       var imageHtml = getRandomImageHtml(fact);
       if (!imageHtml) {
-        imageHtml = getRandomImageHtml();
+        imageHtml = '<div class="post-image my-3">' +
+                      '<img src="https://via.placeholder.com/500x800" alt="Video Thumbnail">' +
+                    '</div>';
       }
       return '<div class="position-relative text-white" style="border-radius:5px; overflow:hidden;">' +
                imageHtml +
                '<div class="overlay">' +
                  '<strong>' + userData.username + '</strong><br>' +
                  '<p class="mb-1">' + fact.text + '</p>' +
-                 '<small>Likes: ' + likes + '</small>' +
+                 '<small>❤️ ' + formatNumber(likes) + '</small>' +
                '</div>' +
              '</div>';
     }
@@ -203,7 +218,7 @@
         currentFact = randomFact;
         getRandomUser().then(function(userData) {
           $('#postContent').html(renderPost(randomFact, userData));
-          // Clear any previous explanation and ensure buttons are visible.
+          // Clear any previous explanation and show the buttons.
           $('#responseContainer').addClass('d-none').html('');
           $("#buttonContainer").show();
         });
@@ -219,7 +234,7 @@
       $('#buttonContainer').on('click', '#trueBtn, #falseBtn', function(){
         // Prevent multiple submissions.
         if(!$('#responseContainer').hasClass('d-none')) return;
-        // Hide the true/false buttons after an answer is clicked.
+        // Hide the true/false buttons once an answer is clicked.
         $("#buttonContainer").hide();
         var selectedAnswer = $(this).attr('id') === 'trueBtn';
         var explanationHTML = '';
