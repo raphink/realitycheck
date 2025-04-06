@@ -219,7 +219,7 @@
     // Load a random fact from the chosen topic JSON and render the post.
     function loadTopic() {
       var topic = getSelectedTopic();
-      $.getJSON(topic + '.json', function(data) {
+      $.getJSON('topics/'+topic + '.json', function(data) {
         var randomFact = data[Math.floor(Math.random() * data.length)];
         currentFact = randomFact;
         getRandomUser().then(function(userData) {
