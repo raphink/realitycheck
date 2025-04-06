@@ -48,5 +48,305 @@
     "text": "Most cold meds don’t cure anything—they just make you feel less miserable while your body does the work. 🤧🕒",
     "answer": true,
     "explanation": "Yes. Cold medications typically treat symptoms, not the virus itself."
+  },
+  {
+    "text": "Just realized something crazy: drinking lemon water every morning detoxes your liver completely.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Can we talk about how apple cider vinegar melts belly fat if you drink it before bed.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, you only need 4 hours of sleep if you're truly healthy.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Not a coincidence that sun gazing can replace your need for food.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "No one talks about this but you can cure cancer by going vegan.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: essential oils can treat depression better than medication.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, alkaline water prevents all diseases, including cancer.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: vaccines overload your immune system and make you sick.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Can we talk about how if you sweat a lot, you're detoxing more than others.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "No one talks about this but fasting for 30 days straight resets your entire body.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Still waiting for someone to explain why eating only raw foods aligns your chakras.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "I did my own research and found that activated charcoal cancels out all toxins in your body.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, if your pee is clear, you're too hydrated and can die.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "I did my own research and found that multivitamins are better than eating actual fruits and vegetables.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): crystals placed on your chest can fix heart problems.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: gut health is more important than brain health.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: the flu is just your body cleansing itself, not a virus.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): vaccines contain microchips that track your movements.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Still waiting for someone to explain why all modern diseases are caused by inflammation from cooked food.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Scientists don't want you to know this, but drinking bleach in small amounts kills parasites and heals you.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Not a coincidence that turmeric cures every disease if taken daily.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, yoga alone can fix spinal deformities without surgery.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: your body can photosynthesize if you meditate long enough.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Not a coincidence that deodorant blocks your lymph nodes and causes cancer.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: raw milk is healthier than pasteurized milk and cures allergies.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Scientists don't want you to know this, but modern medicine treats symptoms, only nature heals.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): if you crave sugar, it means you\u2019re being attacked by parasites.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Scientists don't want you to know this, but chlorophyll drops turn your blood into pure oxygen.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: red wine is better than exercise for your heart.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): eating liver daily makes you immune to all illnesses.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Scientists don't want you to know this, but stretching every morning activates your DNA.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Still waiting for someone to explain why celery juice kills all viruses.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): you can\u2019t get sick if you\u2019re in a positive mindset.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, if you don\u2019t eat carbs, your body becomes fat-proof.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: natural sunscreen (like coconut oil) is safer than commercial ones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Can we talk about how magnesium oil can heal broken bones.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "I did my own research and found that you don\u2019t need sunscreen if your diet is clean.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: wearing shoes disconnects you from healing Earth energy.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "If you think about it, you can lose weight just by drinking ice water all day.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Just realized something crazy: blue light from screens destroys your soul.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Not a coincidence that sniffing rosemary makes you smarter instantly.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Not a coincidence that vaccines are the reason allergies exist.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "I did my own research and found that juice cleanses remove years of toxins in just 3 days.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: if you can\u2019t pronounce an ingredient, it\u2019s poison.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "I did my own research and found that skipping breakfast increases your IQ.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "No one talks about this but holding your breath resets your nervous system.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Mainstream science is hiding the truth: you can absorb nutrients through your skin from fruit baths.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): meditating while standing in a river aligns your blood flow.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "Fun fact (they won't teach you this in school): most mental illnesses are caused by processed foods.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
+  },
+  {
+    "text": "No one talks about this but big pharma bans natural cures to keep you sick.",
+    "answer": false,
+    "explanation": "This statement is scientifically inaccurate or a common misconception.",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions#Health_and_body"
   }
 ]
