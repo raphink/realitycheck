@@ -311,6 +311,8 @@
       streak: 0,
       topicStats: {}
     };
+    // Add a new variable to track if we're in random mode
+    var isRandomMode = true; // Start in random mode by default
 
     // Load stats from localStorage if available
     function loadStats() {
@@ -502,21 +504,33 @@
 
     // Load a fact from the chosen topic JSON and render the post.
     function loadTopic(topic) {
-      // If no topic specified, get a random one
-      if (!topic) {
-        topic = getRandomTopic();
-      }
-      
-      currentTopic = topic;
-      
-      // Update active topic button
-      $('.topic-btn').removeClass('active');
-      $(`.topic-btn[data-topic="${topic}"]`).addClass('active');
-      
+      // Clear any previous explanation and reset the UI
+      $('#responseContainer').addClass('d-none').html('');
+      $("#buttonContainer").show();
+
       // Show loading indicator
       $('#loadingIndicator').removeClass('d-none');
       $('#postContainer').addClass('d-none');
-      $('#buttonContainer').hide();
+      
+      // If in random mode or no topic specified, get a random topic
+      if (isRandomMode || !topic) {
+        topic = getRandomTopic();
+        isRandomMode = true; // Ensure random mode is set
+        
+        // Update UI to show random is active
+        $('.topic-btn').removeClass('active');
+        $('#randomTopic').addClass('active');
+      } else {
+        // A specific topic was selected
+        isRandomMode = false;
+        
+        // Update active topic button
+        $('.topic-btn').removeClass('active');
+        $(`.topic-btn[data-topic="${topic}"]`).addClass('active');
+        $('#randomTopic').removeClass('active');
+      }
+      
+      currentTopic = topic;
       
       $.getJSON('topics/' + topic + '.json', function(data) {
         var randomFact = data[Math.floor(Math.random() * data.length)];
@@ -534,10 +548,6 @@
           
           // Render the post
           $('#postContent').html(renderPost(randomFact, userData));
-          
-          // Clear any previous explanation and show the buttons
-          $('#responseContainer').addClass('d-none').html('');
-          $("#buttonContainer").show();
         });
       }).fail(function() {
         // Hide loading indicator and show error
@@ -554,18 +564,23 @@
       // Load saved stats
       loadStats();
       
-      // Load initial topic
+      // Style the random button as active initially
+      $('#randomTopic').addClass('active');
+      
+      // Load initial topic in random mode
       loadTopic();
 
       // Handle topic button clicks
       $('#topicButtons').on('click', '.topic-btn', function() {
+        isRandomMode = false; // Exit random mode
         const topic = $(this).data('topic');
         loadTopic(topic);
       });
       
       // Handle random topic button click
       $('#randomTopic').on('click', function() {
-        loadTopic();
+        isRandomMode = true; // Enter random mode
+        loadTopic(); // This will now pick a random topic
       });
 
       // Handle True/False answer clicks
@@ -646,16 +661,16 @@
         $('#responseContainer').removeClass('d-none').html(feedbackText);
       });
 
-      // Handle Next button
+      // Handle Next button - modified to maintain random mode
       $('#responseContainer').on('click', '#nextBtn', function(){
         // Reset classes
         $('#responseContainer').removeClass('correct incorrect');
         
-        // Load new fact (stay in same topic unless it's a streak of 5)
-        if (stats.streak >= 5 && Math.random() < 0.3) {
-          // 30% chance to change topic after 5 correct answers in a row
-          loadTopic();
+        // If in random mode, always load a random topic
+        if (isRandomMode) {
+          loadTopic(); // This will pick a random topic due to isRandomMode being true
         } else {
+          // If in a specific topic, load new fact from same topic
           loadTopic(currentTopic);
         }
       });
